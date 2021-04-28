@@ -1,0 +1,11 @@
+ /* ==UserStyle==
+@name         Custom Server Logos
+@description  Stand out from the crowd
+@author       KayoticCarnige
+@namespace    https://github.com/kckarnige/custom-server-logos
+@homepageURL  https://github.com/kckarnige/custom-server-logos
+@version      1.0.0
+==/UserStyle== */
+@-moz-document domain("discord.com") {
+@import url('https://kckarnige.github.io/custom-server-logos/base.css');
+}
