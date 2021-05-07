@@ -22,7 +22,5 @@ If you want to add this to your theme, put this into your base CSS file:
 
 <br>
 
-[<img src="https://kckarnige.github.io/res/bd_icon.svg" height="14px" width="14px"> BetterDiscord Theme Download](https://betterdiscord.net/ghdl/?url=https://raw.githubusercontent.com/kckarnige/custom-server-logos/master/csl.theme.css)
-
 <img src="https://kckarnige.github.io/res/powercord.svg" height="14px" width="14px"> Powercord Theme Install ```git clone https://github.com/kckarnige/custom-server-logos```
 
