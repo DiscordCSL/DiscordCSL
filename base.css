@@ -93,3 +93,21 @@ header[data-guild-id="538759280057122817"] > div.guildIconContainer-2FW_iA {
 header[data-guild-id="538759280057122817"] > .powercord-badge {
     display: none;
 }
+
+/* GooseNest */
+header[data-guild-id="756146058320674998"] > svg.button-1w5pas {
+    transform: translateY(5%);
+}
+
+header[data-guild-id="756146058320674998"] > h1.name-1jkAdW {
+    font-size: 0px;
+    transform: translate(1.5%, 3%);
+}
+
+header[data-guild-id="756146058320674998"] > h1.name-1jkAdW:after {
+    content: url("https://kckarnige.github.io/custom-server-logos/res/goosenest_server-wordmark.svg");
+}
+
+header[data-guild-id="756146058320674998"] > div.guildIconContainer-2FW_iA {
+    transform: translate(-6%, 6%)
+}
