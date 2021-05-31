@@ -129,3 +129,21 @@ header[data-guild-id="820732039253852171"] > h1.name-1jkAdW:after {
 header[data-guild-id="820732039253852171"] > div.guildIconContainer-2FW_iA {
     transform: translate(-6%, 6%)
 }
+
+/* Arc | Minecraft Cosmetics */
+header[data-guild-id="779760211522224138"] > svg.button-1w5pas {
+    transform: translateY(5%);
+}
+
+header[data-guild-id="779760211522224138"] > h1.name-1jkAdW {
+    font-size: 0px;
+    transform: translate(1.5%, 3%);
+}
+
+header[data-guild-id="779760211522224138"] > h1.name-1jkAdW:after {
+    content: url("https://kckarnige.github.io/custom-server-logos/res/arc_server-wordmark.svg");
+}
+
+header[data-guild-id="779760211522224138"] > div.guildIconContainer-2FW_iA {
+    transform: translate(-6%, 6%)
+}
