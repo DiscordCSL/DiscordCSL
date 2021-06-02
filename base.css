@@ -18,7 +18,7 @@ header[data-guild-id="831170964237713479"] > div.guildIconContainer-2FW_iA {
     transform: translate(-6%, 6%)
 }
 
-/* Bongo Was Here */
+/* Lightcord (Now with 99% less virus 😳) */
 header[data-guild-id="705908350218666117"] > svg.button-1w5pas {
     transform: translateY(5%);
 }
@@ -29,7 +29,7 @@ header[data-guild-id="705908350218666117"] > h1.name-1jkAdW {
 }
 
 header[data-guild-id="705908350218666117"] > h1.name-1jkAdW:after {
-    content: url("https://kckarnige.github.io/custom-server-logos/res/bongocord_server-wordmark.svg");
+    content: url("https://kckarnige.github.io/custom-server-logos/res/lightcord_server-wordmark.svg");
 }
 
 header[data-guild-id="705908350218666117"] > div.guildIconContainer-2FW_iA {
