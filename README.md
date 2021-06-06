@@ -5,7 +5,7 @@
 *Stick out from the crowd*
 
 Preview:
-![image](https://kckarnige.github.io/custom-server-logos/preview.png)
+![image](https://raw.githubusercontent.com/kckarnige/custom-server-logos/master/preview.png)
 
 
 <br>
