@@ -26,3 +26,7 @@ If you want to add this to your theme, put this into your base CSS file:
 
 [<img src="https://kckarnige.github.io/res/bd_icon.svg" height="14px" width="14px"> BetterDiscord Theme Download](https://raw.githubusercontent.com/kckarnige/custom-server-logos/main/csl.theme.css) ([Requires this plugin to function](https://raw.githubusercontent.com/kckarnige/custom-server-logos/main/csl.plugin.js))
 
+[<img src="https://kckarnige.github.io/res/stylus_icon.svg" height="14px" width="14px"> Stylus Theme Install](https://raw.githubusercontent.com/kckarnige/custom-server-logos/main/index.user.css) ([Requires this plugin to function](https://github.com/kckarnige/custom-server-logos/releases/tag/chromium))
+
+<img src="https://raw.githubusercontent.com/smartfrigde/armcord/main/discord.ico" height="14px" width="14px"> [ArmCord Theme Download](https://github.com/kckarnige/custom-server-logos/releases/tag/armcord) ([Requires this plugin to function](https://github.com/kckarnige/custom-server-logos/releases/tag/chromium))
+
