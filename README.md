@@ -15,13 +15,15 @@ Preview:
   
   *Note: Waiting time will vary because I have a life lmao*
   
+  *Note 2 owo uwu: **I WILL NOT ACCEPT DMS ABOUT SUBMISSIONS**, you can submit your logo and server ID as an issue (This goes for pure CSS submissions too)* 
+  
   <li>Submitted logos must be a <strong>405h by 1750w vector file</strong> and saved as <strong>38h by 164w in SVG format</strong> or you must submit custom CSS</li>
-  <li>Submitted logos must be raw files or hosted on Imgur or GitHub</li>
+  <li>Submitted logos must be downloadable files or hosted on Imgur, GitHub, or Discord (Anything else will be warned)</li>
   <li>You must submit your server ID (If you don't know how to get this https://google.it, it's not too hard)</li>
   
   ### If one of these requirements are not met, after 48 hours your request will be closed and/or ignored
   
-  #### Pure CSS submissions are also accepted (No more than 12 lines, CSS imports are allowed for fonts, though if it messes with Discord's overall CSS, you will be warned for to remove or modify it _once and only once_)
+  #### Pure CSS submissions are also accepted (No more than 12 lines, CSS imports are ONLY allowed for fonts, you will be warned to remove or modify it _once and only once_ if the CSS import messes with Discord's CSS, asside from the server logo)
   
 </details>
 
