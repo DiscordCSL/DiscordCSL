@@ -1,12 +1,17 @@
-<a href="https://github.com/kckarnige/custom-server-logos">
+<h4></h4>
+<h1 align="center" href="https://github.com/kckarnige/custom-server-logos">
 <img src="https://raw.githubusercontent.com/kckarnige/custom-server-logos/master/banner.png" height="75%" width="75%">
-</a><br>
+</h1>
 
-*Stick out from the crowd*
+<h3 align="center">
+  <i>Stick out from the crowd</i>
+</h3>
+  
+## Preview:
 
-Preview:
-![image](https://raw.githubusercontent.com/kckarnige/custom-server-logos/master/preview.png)
-
+<h4 align="center">
+<img src="https://raw.githubusercontent.com/kckarnige/custom-server-logos/master/preview.png">
+</h4>
 
 <br>
 
@@ -29,13 +34,20 @@ Preview:
 
 
 <br>
-
+<p align="center">
 If you want to add this to your theme, put this into your base CSS file:
+</p>
+<p align="center">
+<code>
+@import url('https://kckarnige.github.io/custom-server-logos/base.css');
+</code>
+</p>
 
-```@import url('https://kckarnige.github.io/custom-server-logos/base.css');```
 
 
 <br>
+<h1> </h1>
+</br>
 
 <img src="https://kckarnige.github.io/res/powercord.svg" height="14px" width="14px"> Powercord Theme Install ```git clone https://github.com/kckarnige/custom-server-logos```
 
