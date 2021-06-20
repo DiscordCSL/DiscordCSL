@@ -14,9 +14,10 @@
 </h4>
 
 <br>
+<br>
 
 <details>
-  <summary><strong>REQUEST SUBMISSIONS NOW OPEN [Click for more info]</strong></summary>
+  <summary align="center"><strong>REQUEST SUBMISSIONS NOW OPEN [Click for more info]</strong></summary>
   
   *Note: Waiting time will vary because I have a life lmao*
   
@@ -31,9 +32,11 @@
   #### Pure CSS submissions are also accepted (No more than 12 lines, CSS imports are ONLY allowed for fonts, you will be warned to remove or modify it _once and only once_ if the CSS import messes with Discord's CSS, asside from the server logo)
   
 </details>
-
-
 <br>
+<h1> </h1>
+<br>
+<br>
+
 <p align="center">
 If you want to add this to your theme, put this into your base CSS file:
 </p>
@@ -47,7 +50,7 @@ If you want to add this to your theme, put this into your base CSS file:
 
 <br>
 <h1> </h1>
-</br>
+<br>
 
 <img src="https://kckarnige.github.io/res/powercord.svg" height="14px" width="14px"> Powercord Theme Install ```git clone https://github.com/kckarnige/custom-server-logos```
 
