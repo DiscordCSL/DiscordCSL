@@ -21,7 +21,7 @@
   
   *Note: Waiting time will vary because I have a life lmao*
   
-  *Note 2 owo uwu: **I WILL NOT ACCEPT DMS ABOUT SUBMISSIONS**, all submissions must be submitted as an issue (This goes for pure CSS submissions too)* 
+  *Note 2 owo uwu: **I WILL NOT ACCEPT DMS ABOUT SUBMISSIONS**, [submissions must be submitted as an issue](https://github.com/kckarnige/custom-server-logos/issues) (This goes for pure CSS submissions too)* 
   
   <li>Submitted logos must be a <strong>405h by 1750w vector file</strong> and saved as <strong>38h by 164w in SVG format</strong> or you must submit custom CSS</li>
   <li>Submitted logos must be downloadable files or hosted on Imgur, GitHub, or Discord (Anything else will be warned)</li>
