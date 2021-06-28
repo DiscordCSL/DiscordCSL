@@ -19,7 +19,7 @@
 <details>
   <summary align="center"><strong>REQUEST SUBMISSIONS NOW OPEN [Click for more info]</strong></summary>
   
-  *Note: Waiting time will vary because I have a life lmao*
+  *Note: Waiting time will vary because this is only maintained by me*
   
   *Note 2 owo uwu: **I WILL NOT ACCEPT DMS ABOUT SUBMISSIONS**, [submissions must be submitted as an issue](https://github.com/kckarnige/custom-server-logos/issues) (This goes for pure CSS submissions too)* 
   
