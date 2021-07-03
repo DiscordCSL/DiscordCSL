@@ -42,7 +42,7 @@ If you want to add this to your theme, put this into your base CSS file:
 </p>
 <p align="center">
 <code>
-@import url('https://kckarnige.github.io/custom-server-logos/base.css');
+@import url('https://kckarnige.is-a.dev/custom-server-logos/base.css');
 </code>
 </p>
 
