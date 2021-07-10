@@ -98,10 +98,6 @@ header[data-guild-id="538759280057122817"] > div.guildIconContainer-2FW_iA {
     transform: translate(-6%, 6%)
 }
 
-header[data-guild-id="538759280057122817"] > .powercord-badge {
-    display: none;
-}
-
 /* Powercord (Porkcord Badge Fix) */
 .powercord header[data-guild-id="538759280057122817"] > svg.button-1w5pas {
     transform: translateY(5%);
@@ -109,10 +105,14 @@ header[data-guild-id="538759280057122817"] > .powercord-badge {
 
 .powercord header[data-guild-id="538759280057122817"] > h1.name-1jkAdW {
     font-size: 0px;
-    transform: translate(-10%, 3%);
+    transform: translate(1.5%, 3%);
 }
 
 .powercord header[data-guild-id="538759280057122817"] > h1.name-1jkAdW:before {
+    display: flex;
+    justify-content: center;
+    transform: translateY(-22%);
+    position: relative;
     content: url("https://kckarnige.is-a.dev/custom-server-logos/res/powercord_server-wordmark.svg");
 }
 
