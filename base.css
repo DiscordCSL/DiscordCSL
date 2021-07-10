@@ -4,8 +4,9 @@
 h1.name-1jkAdW:after {
     display: flex;
     justify-content: center;
-    transform: translateY(-18%);
-  }
+    transform: translateY(-22%);
+    position: relative;
+}
 
 /* Lighty Emojis */
 header[data-guild-id="831170964237713479"] > svg.button-1w5pas {
