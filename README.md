@@ -58,5 +58,5 @@ If you want to add this to your theme, put this into your base CSS file:
 
 [<img src="https://user-images.githubusercontent.com/32397453/122653083-5e7f1200-d110-11eb-9913-a7dcd0f522fc.png" height="14px" width="14px"> Chromium Plugin Download](https://github.com/kckarnige/custom-server-logos/releases/tag/chromium)
 
-<img src="https://user-images.githubusercontent.com/32397453/122653316-cda93600-d111-11eb-90d3-bf40dc7b4c86.png" height="14px" width="14px"> [ArmCord Theme Download](https://github.com/kckarnige/custom-server-logos/releases/tag/armcord) (Requires a plugin to function)
+<img src="https://user-images.githubusercontent.com/32397453/122653316-cda93600-d111-11eb-90d3-bf40dc7b4c86.png" height="14px" width="14px"> ArmCord Plugin Download](https://github.com/kckarnige/custom-server-logos/releases/tag/chromium)
 
