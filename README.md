@@ -52,6 +52,14 @@ If you want to add this to your theme, put this into your base CSS file:
 <h1> </h1>
 <br>
 
+<p align="center">
+<a href="https://chrome.google.com/webstore/detail/discord-server-logos/lnebdlajjbkilmadjeicejnblepglbci">
+<img src="https://storage.googleapis.com/chrome-gcs-uploader.appspot.com/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/HRs9MPufa1J1h5glNhut.png" height="58px" width="206px">
+</a>
+</p>
+
+<h1> </h1>
+
 <img src="https://kckarnige.github.io/res/powercord.svg" height="14px" width="14px"> Powercord Theme Install ```git clone https://github.com/kckarnige/custom-server-logos```
 
 [<img src="https://kckarnige.github.io/res/bd_icon.svg" height="14px" width="14px"> BetterDiscord Theme Download](https://raw.githubusercontent.com/kckarnige/custom-server-logos/main/csl.theme.css) ([Requires this plugin to function](https://raw.githubusercontent.com/kckarnige/custom-server-logos/main/csl.plugin.js))
