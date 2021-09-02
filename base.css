@@ -8,6 +8,12 @@ h1.name-1jkAdW:after {
     position: relative;
 }
 
+/* == Don't hide server header under server banner == */
+header[data-guild-id] {
+    opacity: 1 !important;
+    z-index: 1 !important;
+}
+
 /* Lighty Emojis */
 header[data-guild-id="831170964237713479"] > svg.button-1w5pas {
     transform: translateY(5%);
