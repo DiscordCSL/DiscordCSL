@@ -14,6 +14,22 @@ header[data-guild-id] {
     z-index: 1 !important;
 }
 
+/* == Shrink server banners to header instead of disappearing == */
+[class*="animatedContainer-"] {
+    opacity: 1 !important;
+    transition: opacity .5s;
+}
+[class*="animatedContainer-"] > [class*="bannerImage-"] {
+    transition: margin .5s;
+}
+:not([class*="bannerVisible-"]) > [class*="animatedContainer-"] {
+    opacity: .35 !important;
+    height: 138px;
+}
+:not([class*="bannerVisible-"]) > [class*="animatedContainer-"] > [class*="bannerImage-"] {
+    margin-top: -12px;
+}
+
 /* Lighty Emojis */
 header[data-guild-id="831170964237713479"] > svg.button-1w5pas {
     transform: translateY(5%);
@@ -173,5 +189,23 @@ header[data-guild-id="868523001921028206"] > h1.name-1jkAdW:after {
 }
 
 header[data-guild-id="868523001921028206"] > div.guildIconContainer-2FW_iA {
+    transform: translate(-6%, 6%)
+}
+
+/* NebulaMC Network */
+header[data-guild-id="840441097041084446"] > svg.button-1w5pas {
+    transform: translateY(5%);
+}
+
+header[data-guild-id="840441097041084446"] > h1.name-1jkAdW {
+    font-size: 0px;
+    transform: translate(1.5%, 3%);
+}
+
+header[data-guild-id="840441097041084446"] > h1.name-1jkAdW:after {
+    content: url("https://kckarnige.is-a.dev/custom-server-logos/res/nebulamc_server-wordmark.svg");
+}
+
+header[data-guild-id="840441097041084446"] > div.guildIconContainer-2FW_iA {
     transform: translate(-6%, 6%)
 }
