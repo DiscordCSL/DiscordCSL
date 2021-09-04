@@ -6,6 +6,10 @@
 <h3 align="center">
   <i>Stick out from the crowd</i>
 </h3>
+
+<h4 align="center">
+<img src="https://user-images.githubusercontent.com/32397453/132094075-2bcb1f46-785e-43ac-9550-260e722880a5.png">
+</h4>
   
 ## Preview:
 
