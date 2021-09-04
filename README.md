@@ -10,12 +10,6 @@
 <h4 align="center">
 <img src="https://user-images.githubusercontent.com/32397453/132094075-2bcb1f46-785e-43ac-9550-260e722880a5.png">
 </h4>
-  
-## Preview:
-
-<h4 align="center">
-<img src="https://raw.githubusercontent.com/kckarnige/custom-server-logos/master/preview.png">
-</h4>
 
 <br>
 <br>
