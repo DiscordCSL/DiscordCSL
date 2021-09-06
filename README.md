@@ -14,6 +14,7 @@
 <br>
 <br>
 
+<section id="request_details">
 <details>
   <summary align="center"><strong>REQUEST SUBMISSIONS NOW OPEN [Click for more info]</strong></summary>
   
@@ -48,6 +49,7 @@ If you want to add this to your theme, put this into your base CSS file:
 
 <br>
 <h1> </h1>
+<section id="download">
 <br>
 
 <p align="center">
