@@ -14,7 +14,7 @@
 <br>
 <br>
 
-<section id="request_details">
+<section id="submission-info">
 <details>
   <summary align="center"><strong>REQUEST SUBMISSIONS NOW OPEN [Click for more info]</strong></summary>
   
