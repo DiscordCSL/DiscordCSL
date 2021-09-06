@@ -11,10 +11,11 @@
 <img src="https://user-images.githubusercontent.com/32397453/132094075-2bcb1f46-785e-43ac-9550-260e722880a5.png">
 </h4>
 
+<section id="submission-info">
 <br>
 <br>
 
-<section id="submission-info">
+
 <details>
   <summary align="center"><strong>REQUEST SUBMISSIONS NOW OPEN [Click for more info]</strong></summary>
   
