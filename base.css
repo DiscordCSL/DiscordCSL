@@ -14,6 +14,12 @@ header[data-guild-id] {
     z-index: 1 !important;
 }
 
+/* == Fix server options dropdown icon animation == */
+.button-1w5pas.open-1Te94t {
+    -webkit-transform: translate3d(0,-3px,0) rotate(-90deg) !important;
+    transform: translate3d(0,-3px,0) rotate(-90deg) !important;
+}
+
 /* == Shrink server banners to header instead of disappearing == */
 [class*="animatedContainer-"] {
     opacity: 1 !important;
@@ -209,6 +215,7 @@ header[data-guild-id="840441097041084446"] > h1.name-1jkAdW:after {
 header[data-guild-id="840441097041084446"] > div.guildIconContainer-2FW_iA {
     transform: translate(-6%, 6%)
 }
+
 
 /* Hypixel Discord Chat */
 header[data-guild-id="489529070913060867"] > svg.button-1w5pas {
