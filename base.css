@@ -209,3 +209,21 @@ header[data-guild-id="840441097041084446"] > h1.name-1jkAdW:after {
 header[data-guild-id="840441097041084446"] > div.guildIconContainer-2FW_iA {
     transform: translate(-6%, 6%)
 }
+
+/* Hypixel Discord Chat */
+header[data-guild-id="489529070913060867"] > svg.button-1w5pas {
+    transform: translateY(5%);
+}
+
+header[data-guild-id="489529070913060867"] > h1.name-1jkAdW {
+    font-size: 0px;
+    transform: translate(1.5%, 55%);
+}
+
+header[data-guild-id="489529070913060867"] > h1.name-1jkAdW:after {
+    content: url("https://kckarnige.is-a.dev/custom-server-logos/res/hypixel_chat_server-wordmark.svg");
+}
+
+header[data-guild-id="489529070913060867"] > div.guildIconContainer-2FW_iA {
+    transform: translate(-6%, 6%)
+}
