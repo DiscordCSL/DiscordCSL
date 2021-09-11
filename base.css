@@ -236,7 +236,7 @@ header[data-guild-id="489529070913060867"] > div.guildIconContainer-2FW_iA {
 }
 
 /* == jsyk it's installed uwu == */
-a.embedTitle-3OXDkz[href*="https://kckarnige.is-a.dev/custom-server-logos"]:after {
+a.embedTitle-3OXDkz[href*="https://kckarnige.is-a.dev/custom-server-logos"]:after, a.embedTitle-3OXDkz[href*="https://github.com/kckarnige/custom-server-logos"]:after {
     content: "Installed";
     background: var(--brand-experiment);
     border-radius: 4px;
@@ -254,7 +254,7 @@ a.embedTitle-3OXDkz[href*="https://kckarnige.is-a.dev/custom-server-logos"]:afte
     transition: background-color .17s ease, color .17s ease;
 }
 
-a.embedTitle-3OXDkz[href*="https://kckarnige.is-a.dev/custom-server-logos"]:hover:after {
+a.embedTitle-3OXDkz[href*="https://kckarnige.is-a.dev/custom-server-logos"]:hover:after, a.embedTitle-3OXDkz[href*="https://github.com/kckarnige/custom-server-logos"]:hover:after {
     background: var(--brand-experiment-560);
     -webkit-transition: background-color .17s ease, color .17s ease;
     transition: background-color .17s ease, color .17s ease;
