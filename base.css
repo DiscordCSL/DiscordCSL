@@ -198,7 +198,7 @@ header[data-guild-id="868523001921028206"] > div.guildIconContainer-2FW_iA {
     transform: translate(-6%, 6%)
 }
 
-/* NebulaMC Network */
+/* Nebula Network */
 header[data-guild-id="840441097041084446"] > svg.button-1w5pas {
     transform: translateY(5%);
 }
@@ -213,6 +213,24 @@ header[data-guild-id="840441097041084446"] > h1.name-1jkAdW:after {
 }
 
 header[data-guild-id="840441097041084446"] > div.guildIconContainer-2FW_iA {
+    transform: translate(-6%, 6%)
+}
+
+/* Nebula Network Development */
+header[data-guild-id="883676615752704040"] > svg.button-1w5pas {
+    transform: translateY(5%);
+}
+
+header[data-guild-id="883676615752704040"] > h1.name-1jkAdW {
+    font-size: 0px;
+    transform: translate(1.5%, 5%);
+}
+
+header[data-guild-id="883676615752704040"] > h1.name-1jkAdW:after {
+    content: url("https://kckarnige.is-a.dev/custom-server-logos/res/nebuladev_server-wordmark.svg");
+}
+
+header[data-guild-id="883676615752704040"] > div.guildIconContainer-2FW_iA {
     transform: translate(-6%, 6%)
 }
 
@@ -233,29 +251,4 @@ header[data-guild-id="489529070913060867"] > h1.name-1jkAdW:after {
 
 header[data-guild-id="489529070913060867"] > div.guildIconContainer-2FW_iA {
     transform: translate(-6%, 6%)
-}
-
-/* == jsyk it's installed uwu == */
-a.embedTitle-3OXDkz[href*="https://kckarnige.is-a.dev/custom-server-logos"]:after, a.embedTitle-3OXDkz[href*="https://github.com/kckarnige/custom-server-logos"]:after {
-    content: "Installed";
-    background: var(--brand-experiment);
-    border-radius: 4px;
-    margin-left: 5px;
-    padding-right: 3px;
-    padding-left: 3px;
-    color: #fff;
-    font-size: 10px;
-    line-height: 15px;
-    text-transform: uppercase;
-    font-weight: 500;
-    white-space: nowrap;
-    position: relative;
-    -webkit-transition: background-color .17s ease, color .17s ease;
-    transition: background-color .17s ease, color .17s ease;
-}
-
-a.embedTitle-3OXDkz[href*="https://kckarnige.is-a.dev/custom-server-logos"]:hover:after, a.embedTitle-3OXDkz[href*="https://github.com/kckarnige/custom-server-logos"]:hover:after {
-    background: var(--brand-experiment-560);
-    -webkit-transition: background-color .17s ease, color .17s ease;
-    transition: background-color .17s ease, color .17s ease;
 }
