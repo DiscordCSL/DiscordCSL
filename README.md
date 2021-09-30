@@ -8,7 +8,7 @@
 </h3>
 
 <h4 align="center">
-<img src="https://user-images.githubusercontent.com/32397453/132094075-2bcb1f46-785e-43ac-9550-260e722880a5.png">
+<img src="https://user-images.githubusercontent.com/32397453/135473883-c1e23ed3-38b6-4bec-8788-86cb7d7f7b6c.png">
 </h4>
 
 <section id="submission-info">
