@@ -7,7 +7,7 @@
   <i>Stick out from the crowd</i>
 </h3>
 
-<h3 align="center"><i><a href="https://discord.gg/Cy9bJu6ARw">Discord Support Server Link!</a></i></h3>
+<h3 align="center"><i><a href="https://discord.gg/Cy9bJu6ARw">Support Server Link!</a></i></h3>
 
 <h4 align="center">
 <img src="https://user-images.githubusercontent.com/32397453/135473883-c1e23ed3-38b6-4bec-8788-86cb7d7f7b6c.png">
