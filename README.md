@@ -7,6 +7,8 @@
   <i>Stick out from the crowd</i>
 </h3>
 
+<h3 align="center"><i><a href="https://discord.gg/Cy9bJu6ARw">Discord Server Link!</a></i></h3>
+
 <h4 align="center">
 <img src="https://user-images.githubusercontent.com/32397453/135473883-c1e23ed3-38b6-4bec-8788-86cb7d7f7b6c.png">
 </h4>
@@ -21,13 +23,11 @@
   
   *Note: Waiting time will vary because this is only maintained by me*
   
-  *Note 2 owo uwu: **I WILL NOT ACCEPT DMS ABOUT SUBMISSIONS**, [submissions must be submitted as an issue](https://github.com/kckarnige/custom-server-logos/issues) (This goes for pure CSS submissions too)* 
+  *Note 2 owo uwu: **I WILL NOT ACCEPT DMS ABOUT SUBMISSIONS**, [submissions must be submitted as an issue](https://github.com/kckarnige/custom-server-logos/issues) or [in the submissions channel of the Discord server](https://discord.gg/Cy9bJu6ARw)* 
   
-  <li>Submitted logos must be a <strong>405h by 1750w vector file</strong> and saved as <strong>38h by 164w in SVG format</strong> or you must submit custom CSS</li>
-  <li>Submitted logos must be downloadable files or hosted on Imgur, GitHub, or Discord (Anything else will be warned)</li>
+  <li>Submitted logos must be a <strong>38h by 164w in SVG or GIF format,</strong> or you must submit pure custom CSS (Can only change the server title)</li>
+  <li>Submitted logos must be downloadable files or hosted on Imgur, GitHub or GitHub Pages, or Discord, anything else will be asked to be changed</li>
   <li>You must submit your server ID (If you don't know how to get this https://google.it, it's not too hard)</li>
-  
-  ### If one of these requirements are not met, after 48 hours your request will be closed and/or ignored
   
   #### Pure CSS submissions are also accepted (No more than 12 lines, CSS imports are ONLY allowed for fonts, you will be warned to remove or modify it _once and only once_ if the CSS import messes with Discord's CSS, asside from the server logo)
   
