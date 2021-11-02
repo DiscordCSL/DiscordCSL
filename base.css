@@ -20,6 +20,13 @@ header[data-guild-id], nav[data-guild-id] header {
     transform: translate3d(0,-3px,0) rotate(-90deg) !important;
 }
 
+.button-1w5pas {
+    -webkit-transition: stroke-dasharray .2s ease-out,-webkit-transform .2s ease-out !important;
+    transition: stroke-dasharray .2s ease-out,-webkit-transform .2s ease-out !important;
+    transition: transform .2s ease-out,stroke-dasharray .2s ease-out !important;
+    transition: transform .2s ease-out,stroke-dasharray .2s ease-out,-webkit-transform .2s ease-out !important;
+}
+
 /* == Shrink server banners to header instead of disappearing == */
 [class*="animatedContainer-"] {
     opacity: 1 !important;
