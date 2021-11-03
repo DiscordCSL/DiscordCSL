@@ -3,6 +3,6 @@
     "description": "Stick out from the croud",
     "version": "AutoUpdated",
     "author": "KayoticCarnige",
-    "theme": "csl.theme.css",
+    "theme": "base.css",
     "license": "OSL-3.0"
 }
