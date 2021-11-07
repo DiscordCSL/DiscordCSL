@@ -54,11 +54,11 @@ If you want to add this to your theme, put this into your base CSS file:
 <br>
 
 <p align="center">
-<a href="https://chrome.google.com/webstore/detail/discord-server-logos/lnebdlajjbkilmadjeicejnblepglbci">
+<a href="https://chrome.google.com/webstore/detail/discord-server-logos/lnebdlajjbkilmadjeicejnblepglbci" title="Available in the Chrome Web Store!">
 <img src="https://storage.googleapis.com/chrome-gcs-uploader.appspot.com/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/HRs9MPufa1J1h5glNhut.png" height="58px" width="206px">
 </a>
   
-<a href="https://chrome.google.com/webstore/detail/discord-server-logos/lnebdlajjbkilmadjeicejnblepglbci">
+<a href="https://example.com" title="Coming Soon...">
 <img src="https://ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com/addons/files/2015/11/get-the-addon.png" height="60px" width="172px">
 </a>
 </p>
