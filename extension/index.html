@@ -2,21 +2,9 @@
 <p>Your browser is unsupported :/</p>
 <script>
 if (navigator.userAgent.indexOf('Firefox')) {
-  injectlmao = function () 
-  { 
-    const meta = document.createElement('meta'); 
-    meta.setAttribute(content, 0;URL='https://addons.mozilla.org/en-US/firefox/addon/csl-for-firefox'); 
-    document.head.append(meta); 
-  };
-    injectlmao();
+    document.location.href = 'https://addons.mozilla.org/en-US/firefox/addon/csl-for-firefox'
   } else if (navigator.userAgent.indexOf('Chrome')) {
-  injectlmao = function () 
-  { 
-    const meta = document.createElement('meta'); 
-    meta.setAttribute(content, 0;URL='https://chrome.google.com/webstore/detail/discord-server-logos/lnebdlajjbkilmadjeicejnblepglbci'); 
-    document.head.append(meta); 
-  };
-    injectlmao();
+    document.location.href = 'https://chrome.google.com/webstore/detail/discord-server-logos/lnebdlajjbkilmadjeicejnblepglbci'
   }
 </script>
 </body>
