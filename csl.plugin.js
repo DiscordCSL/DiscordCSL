@@ -45,7 +45,7 @@ class cslp {
             setTimeout(function () {
                 checkURLchange(window.location.href);
                 document.getElementsByClassName("container-3w7J-x")[0].setAttribute('data-guild-id', window.location.pathname.split('/')[2]);
-            }, 1);
+            }, 100);
         }
 
         checkURLchange();
