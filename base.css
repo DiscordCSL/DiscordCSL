@@ -265,6 +265,24 @@ header[data-guild-id="489529070913060867"] > div.guildIconContainer-2FW_iA, nav[
     transform: translate(-6%, 6%)
 }
 
+/* Stare Emojis Server */
+header[data-guild-id="877624488341168138"] > svg.button-1w5pas, nav[data-guild-id="877624488341168138"] header > svg.button-1w5pas {
+    transform: translateY(5%);
+}
+
+header[data-guild-id="877624488341168138"] > h1.name-1jkAdW, nav[data-guild-id="877624488341168138"] header > h1.name-1jkAdW {
+    font-size: 0px;
+    transform: translate(1.5%, 3%);
+}
+
+header[data-guild-id="877624488341168138"] > h1.name-1jkAdW:after, nav[data-guild-id="877624488341168138"] header > h1.name-1jkAdW:after {
+    content: url("https://kckarnige.is-a.dev/custom-server-logos/res/stare_emojis_server-wordmark.svg");
+}
+	
+header[data-guild-id="877624488341168138"] > div.guildIconContainer-2FW_iA, nav[data-guild-id="877624488341168138"] header > div.guildIconContainer-2FW_iA {
+    transform: translate(-6%, 6%)
+}
+
 /* == jsyk it's installed uwu == */
 a.embedTitle-3OXDkz[href*="https://kckarnige.is-a.dev/custom-server-logos"]:after, a.embedTitle-3OXDkz[href*="https://github.com/kckarnige/custom-server-logos"]:after {
     content: "Installed";
