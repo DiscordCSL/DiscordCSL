@@ -4,7 +4,7 @@
 h1.name-1jkAdW:after {
     display: flex;
     justify-content: center;
-    transform: translateY(-22%);
+    transform: translateY(-14%);
     position: relative;
 }
 
@@ -167,7 +167,7 @@ header[data-guild-id="820732039253852171"] > h1.name-1jkAdW, nav[data-guild-id="
 }
 
 header[data-guild-id="820732039253852171"] > h1.name-1jkAdW:after, nav[data-guild-id="820732039253852171"] header > h1.name-1jkAdW:after {
-    content: url("https://kckarnige.is-a.dev/custom-server-logos/res/ac+sc_server-wordmark.svg");
+    content: url("https://kckarnige.is-a.dev/custom-server-logos/res/armcord_server-wordmark.svg");
 }
 	
 header[data-guild-id="820732039253852171"] > div.guildIconContainer-2FW_iA, nav[data-guild-id="820732039253852171"] header > div.guildIconContainer-2FW_iA {
@@ -209,43 +209,6 @@ header[data-guild-id="868523001921028206"] > h1.name-1jkAdW:after, nav[data-guil
 header[data-guild-id="868523001921028206"] > div.guildIconContainer-2FW_iA, nav[data-guild-id="868523001921028206"] header > div.guildIconContainer-2FW_iA {
     transform: translate(-6%, 6%)
 }
-
-/* Nebula Network */
-header[data-guild-id="840441097041084446"] > svg.button-1w5pas, nav[data-guild-id="840441097041084446"] header > svg.button-1w5pas {
-    transform: translateY(5%);
-}
-
-header[data-guild-id="840441097041084446"] > h1.name-1jkAdW, nav[data-guild-id="840441097041084446"] header > h1.name-1jkAdW {
-    font-size: 0px;
-    transform: translate(1.5%, 3%);
-}
-
-header[data-guild-id="840441097041084446"] > h1.name-1jkAdW:after, nav[data-guild-id="840441097041084446"] header > h1.name-1jkAdW:after {
-    content: url("https://kckarnige.is-a.dev/custom-server-logos/res/nebulamc_server-wordmark.svg");
-}
-	
-header[data-guild-id="840441097041084446"] > div.guildIconContainer-2FW_iA, nav[data-guild-id="840441097041084446"] header > div.guildIconContainer-2FW_iA {
-    transform: translate(-6%, 6%)
-}
-
-/* Nebula Network Development */
-header[data-guild-id="883676615752704040"] > svg.button-1w5pas, nav[data-guild-id="883676615752704040"] header > svg.button-1w5pas {
-    transform: translateY(5%);
-}
-
-header[data-guild-id="883676615752704040"] > h1.name-1jkAdW, nav[data-guild-id="883676615752704040"] header > h1.name-1jkAdW {
-    font-size: 0px;
-    transform: translate(1.5%, 3%);
-}
-
-header[data-guild-id="883676615752704040"] > h1.name-1jkAdW:after, nav[data-guild-id="883676615752704040"] header > h1.name-1jkAdW:after {
-    content: url("https://kckarnige.is-a.dev/custom-server-logos/res/nebuladev_server-wordmark.svg");
-}
-	
-header[data-guild-id="883676615752704040"] > div.guildIconContainer-2FW_iA, nav[data-guild-id="883676615752704040"] header > div.guildIconContainer-2FW_iA {
-    transform: translate(-6%, 6%)
-}
-
 
 /* Hypixel Discord Chat */
 header[data-guild-id="489529070913060867"] > svg.button-1w5pas, nav[data-guild-id="489529070913060867"] header > svg.button-1w5pas {
