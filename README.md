@@ -25,7 +25,7 @@
   
   *Note 2 owo uwu: **I WILL NOT ACCEPT DMS ABOUT SUBMISSIONS**, [submissions must be submitted as an issue](https://github.com/kckarnige/custom-server-logos/issues) or [in the submissions channel of the Discord server](https://discord.gg/Cy9bJu6ARw)* 
   
-  <li>Submitted logos must be a <strong>38h by 164w in SVG or GIF format,</strong> or you must submit pure custom CSS (Can only change the server title)</li>
+  <li>Submitted logos must be a <strong>38h by 164w in SVG or **(animated)** GIF format,</strong> or you must submit pure custom CSS (Can only change the server title)</li>
   <li>Submitted logos must be downloadable files or hosted on Imgur, GitHub or GitHub Pages, or Discord, anything else will be asked to be changed</li>
   <li>You must submit your server ID (If you don't know how to get this https://google.it, it's not too hard)</li>
   
