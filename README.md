@@ -73,5 +73,5 @@ If you want to add this to your theme, put this into your base CSS file:
 
 [<img src="https://user-images.githubusercontent.com/32397453/122653316-cda93600-d111-11eb-90d3-bf40dc7b4c86.png" height="14px" width="14px"> ArmCord Plugin Download](https://github.com/kckarnige/custom-server-logos/releases/tag/chromium)
   
-[<img src="https://user-images.githubusercontent.com/32397453/141385369-857e575a-8b8e-46ac-a3f7-4885a52fe372.png" height="14px" width="14px"> Cumcord Plugin Url: `https://kckarnige.is-a.dev/cumcord-plugins/serverlogos`](https://kckarnige.is-a.dev/cumcord-plugins/serverlogos)
+[<img src="https://user-images.githubusercontent.com/32397453/141385369-857e575a-8b8e-46ac-a3f7-4885a52fe372.png" height="14px" width="14px"> Cumcord Plugin Link `https://kckarnige.is-a.dev/cumcord-plugins/serverlogos`](https://kckarnige.is-a.dev/cumcord-plugins/serverlogos)
 
