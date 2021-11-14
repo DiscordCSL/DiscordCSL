@@ -1,5 +1,25 @@
 //META{"name":"cslp"}*//
 
+const container_class = "container-3w7J-x";
+const plugid_bd = "serverlogos-bd";
+
+var oldURL = "";
+var currentURL = window.location.href;
+var clearURLChange = () => {};
+function checkURLchange(currentURL) {
+    if (currentURL != oldURL) {
+        oldURL = currentURL;
+    }
+
+    oldURL = window.location.href;
+    let timeoutID = setTimeout(() => {
+        checkURLchange(window.location.href);
+        document.getElementsByClassName(container_class)[0].setAttribute('data-guild-id', window.location.pathname.split('/')[2]);
+    }, 1);
+    
+    clearURLChange = () => clearTimeout(timeoutID);
+}
+
 class cslp {
     // Constructor
     constructor() {
@@ -7,16 +27,18 @@ class cslp {
     }
 
     // Meta
-    getName() { return "Custom Server Logos Patch"; }
-    getShortName() { return "CSL Patch"; }
-    getDescription() { return "A patch that adds 'data-guild-id' and allows Custom Server Logos to work as intended"; }
-    getVersion() { return "2.0.0"; }
+    getName() { return "Custom Server Logos"; }
+    getShortName() { return "CSLP"; }
+    getDescription() { return "A plugin that allows Custom Server Logos to work as intended"; }
+    getVersion() { return "3.0.0"; }
     getAuthor() { return "KayoticCarnige"; }
 
     // Load/Unload
-    load() { }
+    load() {
+    }
 
-    unload() { }
+    unload() {
+    }
 
     // Events
 
@@ -34,26 +56,16 @@ class cslp {
 
     // Start/Stop
     start() {
-        var oldURL = "";
-        var currentURL = window.location.href;
-        function checkURLchange(currentURL) {
-            if (currentURL != oldURL) {
-                oldURL = currentURL;
-            }
-
-            oldURL = window.location.href;
-            setTimeout(function () {
-                checkURLchange(window.location.href);
-                document.getElementsByClassName("container-3w7J-x")[0].setAttribute('data-guild-id', window.location.pathname.split('/')[2]);
-            }, 100);
-        }
-
         checkURLchange();
+        document.getElementsByClassName(container_class)[0].setAttribute('id', plugid_bd);
     }
 
     stop() {
+        clearURLChange();
+        document.getElementById(plugid_bd).removeAttribute("data-guild-id")
+        document.getElementById(plugid_bd).removeAttribute("id");
         PluginUtilities.showToast(this.getName() + " " + this.getVersion() + " has stopped.");
-    };
+    }
 
     //  Initialize
     initialize() {
