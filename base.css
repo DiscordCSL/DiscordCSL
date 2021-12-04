@@ -4,9 +4,9 @@
 h1.name-1jkAdW:after {
     display: flex;
     justify-content: center;
-    top: 30%;
-    bottom: 30%;
-    transform: translateY(-30%);
+    top: 50%;
+    bottom: 50%;
+    transform: translateY(-12%);
     position: relative;
 }
 
