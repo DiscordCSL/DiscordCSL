@@ -248,6 +248,24 @@ header[data-guild-id="877624488341168138"] > div.guildIconContainer-2FW_iA, div[
     transform: translate(-6%, 6%)
 }
 
+/* Undertale Corrupted Server */
+header[data-guild-id="923317188058812417"] > svg.button-1w5pas, div[data-guild-id="923317188058812417"] header > svg.button-1w5pas {
+    transform: translateY(5%);
+}
+
+header[data-guild-id="923317188058812417"] > h1.name-1jkAdW, div[data-guild-id="923317188058812417"] header > h1.name-1jkAdW {
+    font-size: 0px;
+    transform: translate(1.5%, 3%);
+}
+
+header[data-guild-id="923317188058812417"] > h1.name-1jkAdW:after, div[data-guild-id="923317188058812417"] header > h1.name-1jkAdW:after {
+    content: url("https://kckarnige.is-a.dev/custom-server-logos/res/utc_server-wordmark.svg");
+}
+	
+header[data-guild-id="923317188058812417"] > div.guildIconContainer-2FW_iA, div[data-guild-id="923317188058812417"] header > div.guildIconContainer-2FW_iA {
+    transform: translate(-6%, 6%)
+}
+
 /* == jsyk it's installed uwu == */
 a.embedTitle-3OXDkz[href*="https://kckarnige.is-a.dev/custom-server-logos"]:after, a.embedTitle-3OXDkz[href*="https://github.com/kckarnige/custom-server-logos"]:after {
     content: "Installed";
