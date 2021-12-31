@@ -61,6 +61,10 @@ If you want to add this to your theme, put this into your base CSS file:
 <a href="https://addons.mozilla.org/en-US/firefox/addon/csl-for-firefox/" title="Get the add-on, for Firefox!">
 <img src="https://ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com/addons/files/2015/11/get-the-addon.png" height="60px" width="172px">
 </a>
+  
+<a href="https://send.cumcord.com/#https://kckarnige.is-a.dev/cumcord-plugins/serverlogos" title="Get it on Cumcord!">
+<img src="https://camo.githubusercontent.com/22ae79ebc121a4ff7fa9509a47366585f238b3498e80ccc6947bcd715e85e51b/68747470733a2f2f79656c6c6f7773696e6b2e6769746875622e696f2f63632d706c7567696e732f6173736574732f63756d64756d705f627574746f6e2e706e67" height="60px" width="180px">
+</a>
 </p>
 
 <h1> </h1>
