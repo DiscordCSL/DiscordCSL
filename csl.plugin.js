@@ -1,6 +1,6 @@
 //META{"name":"cslp"}*//
 
-const container_class = "container-3w7J-x";
+const container_class = "container-1-ERn5";
 const plugid_bd = "serverlogos-bd";
 
 var oldURL = "";
@@ -30,7 +30,7 @@ class cslp {
     getName() { return "Custom Server Logos"; }
     getShortName() { return "CSLP"; }
     getDescription() { return "A plugin that allows Custom Server Logos to work as intended"; }
-    getVersion() { return "3.0.0"; }
+    getVersion() { return "3.0.1"; }
     getAuthor() { return "KayoticCarnige"; }
 
     // Load/Unload
