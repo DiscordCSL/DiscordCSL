@@ -266,6 +266,24 @@ header[data-guild-id="923317188058812417"] > div.guildIconContainer-3QvE6w, div[
     transform: translate(-6%, 6%)
 }
 
+/* Project PS */
+header[data-guild-id="810920173464846407"] > svg.button-2BMPJJ, div[data-guild-id="810920173464846407"] header > svg.button-2BMPJJ {
+    transform: translateY(5%);
+}
+
+header[data-guild-id="810920173464846407"] > h1.name-3Uvkvr, div[data-guild-id="810920173464846407"] header > h1.name-3Uvkvr {
+    font-size: 0px;
+    transform: translate(1.5%, 3%);
+}
+
+header[data-guild-id="810920173464846407"] > h1.name-3Uvkvr:after, div[data-guild-id="810920173464846407"] header > h1.name-3Uvkvr:after {
+    content: url("https://kckarnige.is-a.dev/custom-server-logos/res/projectps_server-wordmark.svg");
+}
+	
+header[data-guild-id="810920173464846407"] > div.guildIconContainer-3QvE6w, div[data-guild-id="810920173464846407"] header > div.guildIconContainer-3QvE6w {
+    transform: translate(-6%, 6%)
+}
+
 /* == jsyk it's installed uwu == */
 a.embedTitle-2n1pEb[href*="https://kckarnige.is-a.dev/custom-server-logos"]:after, a.embedTitle-2n1pEb[href*="https://github.com/kckarnige/custom-server-logos"]:after {
     content: "Installed";
