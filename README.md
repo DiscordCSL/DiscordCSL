@@ -63,13 +63,13 @@ If you want to add this to your theme, put this into your base CSS file:
 </a>
   
 <a href="https://send.cumcord.com/#https://kckarnige.is-a.dev/cumcord-plugins/serverlogos" title="Get it on Cumcord!">
-<img src="https://camo.githubusercontent.com/22ae79ebc121a4ff7fa9509a47366585f238b3498e80ccc6947bcd715e85e51b/68747470733a2f2f79656c6c6f7773696e6b2e6769746875622e696f2f63632d706c7567696e732f6173736574732f63756d64756d705f627574746f6e2e706e67" height="60px" width="180px">
+<img src="https://raw.githubusercontent.com/Cumcord/assets/main/buttons/cumdump_button.png" height="60px" width="180px">
 </a>
 </p>
 
 <h1> </h1>
 
-<img src="https://kckarnige.github.io/res/powercord.svg" height="14px" width="14px"> Powercord Theme Install ```git clone https://github.com/kckarnige/custom-server-logos```
+<img src="https://kckarnige.github.io/res/powercord.svg" height="14px" width="14px"> Powercord Theme Install ```git clone https://github.com/kckarnige/custom-server-logos --branch powercord```
 
 [<img src="https://kckarnige.github.io/res/bd_icon.svg" height="14px" width="14px"> BetterDiscord Theme Download](https://raw.githubusercontent.com/kckarnige/custom-server-logos/main/csl.theme.css) ([Requires this plugin to function](https://raw.githubusercontent.com/kckarnige/custom-server-logos/main/csl.plugin.js))
 
