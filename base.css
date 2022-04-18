@@ -284,6 +284,24 @@ div[data-guild-id="810920173464846407"] header div.guildIconContainer-3QvE6w {
     transform: translate(-6%, 6%)
 }
 
+/* Cumcord */
+div[data-guild-id="824921608560181258"] header svg.button-2BMPJJ {
+    transform: translateY(5%);
+}
+
+div[data-guild-id="824921608560181258"] header h1.name-3Uvkvr {
+    font-size: 0px;
+    transform: translate(1.5%, 3%);
+}
+
+div[data-guild-id="824921608560181258"] header h1.name-3Uvkvr:after {
+    content: url("https://kckarnige.is-a.dev/custom-server-logos/res/cumcord_server-wordmark.svg");
+}
+	
+div[data-guild-id="824921608560181258"] header div.guildIconContainer-3QvE6w {
+    transform: translate(-6%, 6%)
+}
+
 /* == jsyk it's installed uwu == */
 a.embedTitle-2n1pEb[href*="https://kckarnige.is-a.dev/custom-server-logos"]:after, a.embedTitle-2n1pEb[href*="https://github.com/kckarnige/custom-server-logos"]:after, a.embedTitle-2n1pEb[href*="https://chrome.google.com/webstore/detail/discord-server-logos/lnebdlajjbkilmadjeicejnblepglbci"]:after {
     content: "Installed";
