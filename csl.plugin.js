@@ -1,76 +1,34 @@
 //META{"name":"cslp"}*//
 
+/**
+ * @name Custom Server Logos Patch
+ * @version 3.0.1
+ * @description A plugin that allows Custom Server Logos to work as intended by injecting the "data-guild-id" attribute!
+ * @author KayoticCarnige
+ * @website https://github.com/kckarnige/custom-server-logos
+*/
+
 const container_class = "container-1-ERn5";
 const plugid_bd = "serverlogos-bd";
 
-var oldURL = "";
-var currentURL = window.location.href;
-var clearURLChange = () => {};
-function checkURLchange(currentURL) {
-    if (currentURL != oldURL) {
-        oldURL = currentURL;
-    }
+window.onloadedmetadata, function () {
+  if (!document.getElementsByClassName(container_class)[0].hasAttribute('data-guild-id')) {
+    document.getElementsByClassName(container_class)[0].setAttribute('data-guild-id', window.location.pathname.split('/')[2]);
+    console.log("[CSL] Injected attribute!");
+  }
+};
 
-    oldURL = window.location.href;
-    let timeoutID = setTimeout(() => {
-        checkURLchange(window.location.href);
-        document.getElementsByClassName(container_class)[0].setAttribute('data-guild-id', window.location.pathname.split('/')[2]);
-    }, 1);
-    
-    clearURLChange = () => clearTimeout(timeoutID);
-}
-
-class cslp {
-    // Constructor
-    constructor() {
-        this.initialized = false;
-    }
-
-    // Meta
-    getName() { return "Custom Server Logos"; }
-    getShortName() { return "CSLP"; }
-    getDescription() { return "A plugin that allows Custom Server Logos to work as intended"; }
-    getVersion() { return "3.0.1"; }
-    getAuthor() { return "KayoticCarnige"; }
-
-    // Load/Unload
-    load() {
-    }
-
-    unload() {
-    }
-
-    // Events
-
-    onMessage() {
-        // Called when a message is received
-    };
-
-    onSwitch() {
-        // Called when a server or channel is switched
-    };
-
-    observer(e) {
-        // raw MutationObserver event for each mutation
-    };
-
-    // Start/Stop
+module.exports = class cslp {
     start() {
-        checkURLchange();
+        this.initialized = true;
         document.getElementsByClassName(container_class)[0].setAttribute('id', plugid_bd);
+        PluginUtilities.showToast(this.getName() + " " + this.getVersion() + " has started.");
     }
-
     stop() {
+        this.initialized = false;
         clearURLChange();
         document.getElementById(plugid_bd).removeAttribute("data-guild-id")
         document.getElementById(plugid_bd).removeAttribute("id");
         PluginUtilities.showToast(this.getName() + " " + this.getVersion() + " has stopped.");
-    }
-
-    //  Initialize
-    initialize() {
-        this.initialized = true;
-        PluginUtilities.showToast(this.getName() + " " + this.getVersion() + " has started.");
-
     }
 }
