@@ -1,5 +1,3 @@
-//META{"name":"cslp"}*//
-
 /**
  * @name Custom Server Logos Patch
  * @version 3.0.1
