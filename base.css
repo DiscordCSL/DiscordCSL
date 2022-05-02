@@ -176,6 +176,10 @@ div[data-guild-id="820732039253852171"] header div.guildIconContainer-3QvE6w {
     transform: translate(-6%, 6%)
 }
 
+div[data-guild-id="820732039253852171"] {
+    background: var(--background-modifier-hover);
+}
+
 /* Arc | Minecraft Cosmetics */
 div[data-guild-id="779760211522224138"] header svg.button-2BMPJJ {
     transform: translateY(5%);
