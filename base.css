@@ -47,7 +47,11 @@ div[data-guild-id] header {
 
 /* Main Server */
 div[data-guild-id="895642817995632682"] header svg.button-2BMPJJ {
-    transform: translateY(5%);
+    transform: translate3d(0,3px,0) rotate(0deg) !important;
+}
+
+div[data-guild-id="895642817995632682"] header svg.button-2BMPJJ.open-3fGK6o {
+    transform: translate3d(0,0px,0) rotate(-90deg) !important;
 }
 
 div[data-guild-id="895642817995632682"] header h1.name-3Uvkvr {
@@ -65,7 +69,11 @@ div[data-guild-id="895642817995632682"] header div.guildIconContainer-3QvE6w {
 
 /* Lighty Emojis */
 div[data-guild-id="831170964237713479"] header svg.button-2BMPJJ {
-    transform: translateY(5%);
+    transform: translate3d(0,3px,0) rotate(0deg) !important;
+}
+
+div[data-guild-id="831170964237713479"] header svg.button-2BMPJJ.open-3fGK6o {
+    transform: translate3d(0,0px,0) rotate(-90deg) !important;
 }
 
 div[data-guild-id="831170964237713479"] header h1.name-3Uvkvr {
@@ -83,7 +91,11 @@ div[data-guild-id="831170964237713479"] header div.guildIconContainer-3QvE6w {
 
 /* BetterDiscord */
 div[data-guild-id="86004744966914048"] header svg.button-2BMPJJ {
-    transform: translateY(5%);
+    transform: translate3d(0,3px,0) rotate(0deg) !important;
+}
+
+div[data-guild-id="86004744966914048"] header svg.button-2BMPJJ.open-3fGK6o {
+    transform: translate3d(0,0px,0) rotate(-90deg) !important;
 }
 
 div[data-guild-id="86004744966914048"] header h1.name-3Uvkvr {
@@ -99,9 +111,13 @@ div[data-guild-id="86004744966914048"] header div.guildIconContainer-3QvE6w {
     transform: translate(-6%, 6%)
 }
 
-/* BetterDiscord2 */
+/* BetterDiscord 2 */
 div[data-guild-id="280806472928198656"] header svg.button-2BMPJJ {
-    transform: translateY(5%);
+    transform: translate3d(0,3px,0) rotate(0deg) !important;
+}
+
+div[data-guild-id="280806472928198656"] header svg.button-2BMPJJ.open-3fGK6o {
+    transform: translate3d(0,0px,0) rotate(-90deg) !important;
 }
 
 div[data-guild-id="280806472928198656"] header h1.name-3Uvkvr {
@@ -119,7 +135,11 @@ div[data-guild-id="280806472928198656"] header div.guildIconContainer-3QvE6w {
 
 /* Powercord */
 div[data-guild-id="538759280057122817"] header svg.button-2BMPJJ {
-    transform: translateY(5%);
+    transform: translate3d(0,3px,0) rotate(0deg) !important;
+}
+
+div[data-guild-id="538759280057122817"] header svg.button-2BMPJJ.open-3fGK6o {
+    transform: translate3d(0,0px,0) rotate(-90deg) !important;
 }
 
 div[data-guild-id="538759280057122817"] header h1.name-3Uvkvr {
@@ -137,7 +157,11 @@ div[data-guild-id="538759280057122817"] header div.guildIconContainer-3QvE6w {
 
 /* GooseNest */
 div[data-guild-id="756146058320674998"] header svg.button-2BMPJJ {
-    transform: translateY(5%);
+    transform: translate3d(0,3px,0) rotate(0deg) !important;
+}
+
+div[data-guild-id="756146058320674998"] header svg.button-2BMPJJ.open-3fGK6o {
+    transform: translate3d(0,0px,0) rotate(-90deg) !important;
 }
 
 div[data-guild-id="756146058320674998"] header h1.name-3Uvkvr {
@@ -155,12 +179,16 @@ div[data-guild-id="756146058320674998"] header div.guildIconContainer-3QvE6w {
 
 /* GooseNest but on GooseMod */
 .goosemod div[data-guild-id="756146058320674998"] header h1.name-3Uvkvr:after {
-    content: url("https://kckarnige.is-a.dev/custom-server-logos/res/goosenest_server-wordmark-nogoose.svg");
+    content: url("https://kckarnige.is-a.dev/custom-server-logos/res/goosenest_server-wordmark-nogoose.svg") !important;
 }
 
 /* ArmCord */
 div[data-guild-id="820732039253852171"] header svg.button-2BMPJJ {
-    transform: translateY(5%);
+    transform: translate3d(0,3px,0) rotate(0deg) !important;
+}
+
+div[data-guild-id="820732039253852171"] header svg.button-2BMPJJ.open-3fGK6o {
+    transform: translate3d(0,0px,0) rotate(-90deg) !important;
 }
 
 div[data-guild-id="820732039253852171"] header h1.name-3Uvkvr {
@@ -182,7 +210,11 @@ div[data-guild-id="820732039253852171"] {
 
 /* Arc | Minecraft Cosmetics */
 div[data-guild-id="779760211522224138"] header svg.button-2BMPJJ {
-    transform: translateY(5%);
+    transform: translate3d(0,3px,0) rotate(0deg) !important;
+}
+
+div[data-guild-id="779760211522224138"] header svg.button-2BMPJJ.open-3fGK6o {
+    transform: translate3d(0,0px,0) rotate(-90deg) !important;
 }
 
 div[data-guild-id="779760211522224138"] header h1.name-3Uvkvr {
@@ -200,7 +232,11 @@ div[data-guild-id="779760211522224138"] header div.guildIconContainer-3QvE6w {
 
 /* Hun & Bun | Private Server */
 div[data-guild-id="868523001921028206"] header svg.button-2BMPJJ {
-    transform: translateY(5%);
+    transform: translate3d(0,3px,0) rotate(0deg) !important;
+}
+
+div[data-guild-id="868523001921028206"] header svg.button-2BMPJJ.open-3fGK6o {
+    transform: translate3d(0,0px,0) rotate(-90deg) !important;
 }
 
 div[data-guild-id="868523001921028206"] header h1.name-3Uvkvr {
@@ -218,7 +254,11 @@ div[data-guild-id="868523001921028206"] header div.guildIconContainer-3QvE6w {
 
 /* Hypixel Discord Chat */
 div[data-guild-id="489529070913060867"] header svg.button-2BMPJJ {
-    transform: translateY(5%);
+    transform: translate3d(0,3px,0) rotate(0deg) !important;
+}
+
+div[data-guild-id="489529070913060867"] header svg.button-2BMPJJ.open-3fGK6o {
+    transform: translate3d(0,0px,0) rotate(-90deg) !important;
 }
 
 div[data-guild-id="489529070913060867"] header h1.name-3Uvkvr {
@@ -236,7 +276,11 @@ div[data-guild-id="489529070913060867"] header div.guildIconContainer-3QvE6w {
 
 /* Stare Emojis Server */
 div[data-guild-id="877624488341168138"] header svg.button-2BMPJJ {
-    transform: translateY(5%);
+    transform: translate3d(0,3px,0) rotate(0deg) !important;
+}
+
+div[data-guild-id="877624488341168138"] header svg.button-2BMPJJ.open-3fGK6o {
+    transform: translate3d(0,0px,0) rotate(-90deg) !important;
 }
 
 div[data-guild-id="877624488341168138"] header h1.name-3Uvkvr {
@@ -254,7 +298,11 @@ div[data-guild-id="877624488341168138"] header div.guildIconContainer-3QvE6w {
 
 /* Undertale Corrupted Server */
 div[data-guild-id="923317188058812417"] header svg.button-2BMPJJ {
-    transform: translateY(5%);
+    transform: translate3d(0,3px,0) rotate(0deg) !important;
+}
+
+div[data-guild-id="923317188058812417"] header svg.button-2BMPJJ.open-3fGK6o {
+    transform: translate3d(0,0px,0) rotate(-90deg) !important;
 }
 
 div[data-guild-id="923317188058812417"] header h1.name-3Uvkvr {
@@ -272,7 +320,11 @@ div[data-guild-id="923317188058812417"] header div.guildIconContainer-3QvE6w {
 
 /* Project PS */
 div[data-guild-id="810920173464846407"] header svg.button-2BMPJJ {
-    transform: translateY(5%);
+    transform: translate3d(0,3px,0) rotate(0deg) !important;
+}
+
+div[data-guild-id="810920173464846407"] header svg.button-2BMPJJ.open-3fGK6o {
+    transform: translate3d(0,0px,0) rotate(-90deg) !important;
 }
 
 div[data-guild-id="810920173464846407"] header h1.name-3Uvkvr {
@@ -290,7 +342,11 @@ div[data-guild-id="810920173464846407"] header div.guildIconContainer-3QvE6w {
 
 /* Cumcord */
 div[data-guild-id="824921608560181258"] header svg.button-2BMPJJ {
-    transform: translateY(5%);
+    transform: translate3d(0,3px,0) rotate(0deg) !important;
+}
+
+div[data-guild-id="824921608560181258"] header svg.button-2BMPJJ.open-3fGK6o {
+    transform: translate3d(0,0px,0) rotate(-90deg) !important;
 }
 
 div[data-guild-id="824921608560181258"] header h1.name-3Uvkvr {
