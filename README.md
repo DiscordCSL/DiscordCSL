@@ -20,16 +20,13 @@
 
 <details>
   <summary align="center"><strong>REQUEST SUBMISSIONS NOW OPEN [Click for more info]</strong></summary>
+   
+  *Note: **DO NOT SPAM ME IN DMS**, [submissions must be submitted as an issue](https://github.com/kckarnige/custom-server-logos/issues) or [in the submissions channel of the Discord server](https://discord.gg/Cy9bJu6ARw)* 
   
-  *Note: Waiting time will vary because this is only maintained by me*
+  <li>Submitted logos must be a <strong>38h by 164w vector file</strong> or an <i>animated</i> GIF,</li>
+  <li>Submitted logos must be hosted on Imgur, GitHub (through a repo, or GH pages), or Discord, anything else will be asked to be changed</li>
+  <li>You must submit your server ID (If you don't know how to get this [google.it](https://google.it), it's not too hard)</li>
   
-  *Note 2 owo uwu: **I WILL NOT ACCEPT DMS ABOUT SUBMISSIONS**, [submissions must be submitted as an issue](https://github.com/kckarnige/custom-server-logos/issues) or [in the submissions channel of the Discord server](https://discord.gg/Cy9bJu6ARw)* 
-  
-  <li>Submitted logos must be a <strong>38h by 164w in SVG or <i>(animated)</i> GIF format,</strong> or you must submit pure custom CSS (Can only change the server title)</li>
-  <li>Submitted logos must be downloadable files or hosted on Imgur, GitHub or GitHub Pages, or Discord, anything else will be asked to be changed</li>
-  <li>You must submit your server ID (If you don't know how to get this https://google.it, it's not too hard)</li>
-  
-  #### Pure CSS submissions are also accepted (No more than 12 lines, CSS imports are ONLY allowed for fonts, you will be warned to remove or modify it _once and only once_ if the CSS import messes with Discord's CSS, asside from the server logo)
   
 </details>
 <br>
@@ -38,7 +35,7 @@
 <br>
 
 <p align="center">
-If you want to add this to your theme, put this into your base CSS file:
+If you want to add this to your Powercord theme, put this into your base CSS file:
 </p>
 <p align="center">
 <code>
@@ -71,7 +68,7 @@ If you want to add this to your theme, put this into your base CSS file:
 
 <img src="https://kckarnige.github.io/res/powercord.svg" height="14px" width="14px"> Powercord Theme Install ```git clone https://github.com/kckarnige/custom-server-logos --branch powercord```
 
-[<img src="https://user-images.githubusercontent.com/32397453/122653083-5e7f1200-d110-11eb-9913-a7dcd0f522fc.png" height="14px" width="14px"> Chromium Plugin Download](https://github.com/kckarnige/custom-server-logos/releases/tag/chromium)
+[<img src="https://user-images.githubusercontent.com/32397453/122653083-5e7f1200-d110-11eb-9913-a7dcd0f522fc.png" height="14px" width="14px"> Chromium Dev Mode Plugin Download](https://github.com/kckarnige/custom-server-logos/releases/tag/chromium)
 
 [<img src="https://user-images.githubusercontent.com/32397453/122653316-cda93600-d111-11eb-90d3-bf40dc7b4c86.png" height="14px" width="14px"> ArmCord Plugin Download](https://github.com/kckarnige/custom-server-logos/releases/tag/chromium)
   
