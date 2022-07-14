@@ -73,3 +73,5 @@ If you want to add this to your Powercord theme, put this into your base CSS fil
 [<img src="https://user-images.githubusercontent.com/32397453/122653316-cda93600-d111-11eb-90d3-bf40dc7b4c86.png" height="14px" width="14px"> ArmCord Plugin Download](https://github.com/kckarnige/custom-server-logos/releases/tag/chromium)
   
 <img src="https://user-images.githubusercontent.com/32397453/141385369-857e575a-8b8e-46ac-a3f7-4885a52fe372.png" height="14px" width="14px"> Cumcord Plugin URL `https://kckarnige.is-a.dev/cumcord-plugins/serverlogos`
+
+<img src="https://avatars.githubusercontent.com/u/80864961" height="14px" width="14px"> Kernel Mod Package Install ```git clone https://github.com/kckarnige/custom-server-logos --branch kernel-mod```
