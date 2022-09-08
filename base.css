@@ -361,6 +361,24 @@ div[data-guild-id="824921608560181258"] header h1.name-3Uvkvr:after {
 div[data-guild-id="824921608560181258"] header div.guildIconContainer-3QvE6w {
     transform: translate(-6%, 6%)
 }
+/* Colonial High Gaming Club */
+header[data-guild-id="1009892699660365825"] > svg.button-1w5pas, nav[data-guild-id="1009892699660365825"] header > svg.button-1w5pas {
+    transform: translateY(5%);
+}
+
+header[data-guild-id="1009892699660365825"] > h1.name-1jkAdW, nav[data-guild-id="1009892699660365825"] header > h1.name-1jkAdW {
+    font-size: 0px;
+    transform: translate(1.5%, 3%);
+}
+
+header[data-guild-id="1009892699660365825"] > h1.name-1jkAdW:after, nav[data-guild-id="1009892699660365825"] header > h1.name-1jkAdW:after {
+    content: url("https://kckarnige.is-a.dev/custom-server-logos/res/chsgayclob_server-wordmark.svg");
+}
+	
+header[data-guild-id="1009892699660365825"] > div.guildIconContainer-2FW_iA, nav[data-guild-id="1009892699660365825"] header > div.guildIconContainer-2FW_iA {
+    transform: translate(-6%, 6%)
+}
+
 
 /* == jsyk it's installed uwu == */
 a.embedTitle-2n1pEb[href*="https://kckarnige.is-a.dev/custom-server-logos"]:after, a.embedTitle-2n1pEb[href*="https://github.com/kckarnige/custom-server-logos"]:after, a.embedTitle-2n1pEb[href*="https://chrome.google.com/webstore/detail/discord-server-logos/lnebdlajjbkilmadjeicejnblepglbci"]:after {
