@@ -1,17 +1,21 @@
 /* Server Name */
-header[data-guild-id="SERVERID"] > svg.button-1w5pas, nav[data-guild-id="SERVERID"] header > svg.button-1w5pas {
-    transform: translateY(5%);
+div[data-guild-id="server_id"] header svg.button-2BMPJJ {
+    transform: translate3d(0,3px,0) rotate(0deg) !important;
 }
 
-header[data-guild-id="SERVERID"] > h1.name-1jkAdW, nav[data-guild-id="SERVERID"] header > h1.name-1jkAdW {
+div[data-guild-id="server_id"] header svg.button-2BMPJJ.open-3fGK6o {
+    transform: translate3d(0,0px,0) rotate(-90deg) !important;
+}
+
+div[data-guild-id="server_id"] header h1.name-3Uvkvr {
     font-size: 0px;
     transform: translate(1.5%, 3%);
 }
 
-header[data-guild-id="SERVERID"] > h1.name-1jkAdW:after, nav[data-guild-id="SERVERID"] header > h1.name-1jkAdW:after {
-    content: url("SVGURL");
+div[data-guild-id="server_id"] header h1.name-3Uvkvr:after {
+    content: url("https://example.com/vector_logo_url/filename.svg");
 }
 	
-header[data-guild-id="SERVERID"] > div.guildIconContainer-2FW_iA, nav[data-guild-id="SERVERID"] header > div.guildIconContainer-2FW_iA {
+div[data-guild-id="server_id"] header div.guildIconContainer-3QvE6w {
     transform: translate(-6%, 6%)
 }
