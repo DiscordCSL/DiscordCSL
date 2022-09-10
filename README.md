@@ -34,6 +34,20 @@
 <br>
 <br>
 
+<h3 align="center">CSP Bypass Credits</h3>
+<p align="center">
+CSP Bypass for MV2: <a href="https://github.com/GooseMod/Extension">GooseMod</a>
+</p>
+<p align="center">
+Base for CSP Bypass for MV3: <a href="https://github.com/WithoutHair/Disable-Content-Security-Policy">WithoutHair</a>
+</p>
+<br>
+<br>
+
+<h1> </h1>
+<br>
+<br>
+
 <p align="center">
 If you want to add this to your Powercord theme, put this into your base CSS file:
 </p>
