@@ -1,6 +1,6 @@
 <h4></h4>
 <h1 align="center" href="https://github.com/kckarnige/custom-server-logos">
-<img src="https://raw.githubusercontent.com/kckarnige/custom-server-logos/master/banner.png" height="75%" width="75%">
+<img src="https://user-images.githubusercontent.com/32397453/192675948-b7b16f68-d4a4-4fa9-9ea8-7d9a48c42a58.svg" height="75%" width="75%">
 </h1>
 
 <h3 align="center">
@@ -10,7 +10,7 @@
 <h3 align="center"><i><a href="https://discord.gg/Cy9bJu6ARw">Support Server Link!</a></i></h3>
 
 <h4 align="center">
-<img src="https://user-images.githubusercontent.com/32397453/135473883-c1e23ed3-38b6-4bec-8788-86cb7d7f7b6c.png">
+<img src="https://user-images.githubusercontent.com/32397453/192693432-7517a5de-418d-4f73-9e14-3904d3ba1440.png">
 </h4>
 
 <section id="submission-info">
@@ -68,9 +68,6 @@ If you want to add this to your Powercord theme, put this into your base CSS fil
 <a href="https://chrome.google.com/webstore/detail/discord-server-logos/lnebdlajjbkilmadjeicejnblepglbci" title="Available in the Chrome Web Store!">
 <img src="https://storage.googleapis.com/chrome-gcs-uploader.appspot.com/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/HRs9MPufa1J1h5glNhut.png" height="58px" width="206px">
 </a>
-
-<a href="https://send.cumcord.com/#https://kckarnige.is-a.dev/cumcord-plugins/serverlogos" title="Get it on Cumcord!">
-<img src="https://raw.githubusercontent.com/Cumcord/assets/main/buttons/cumdump_button.png" height="60px" width="180px">
 </a>
 </p>
 
@@ -84,6 +81,6 @@ If you want to add this to your Powercord theme, put this into your base CSS fil
 
 [<img src="https://user-images.githubusercontent.com/32397453/122653316-cda93600-d111-11eb-90d3-bf40dc7b4c86.png" height="14px"> ArmCord Plugin Download](https://github.com/kckarnige/custom-server-logos/releases/tag/chromium)
   
-<img src="https://user-images.githubusercontent.com/32397453/141385369-857e575a-8b8e-46ac-a3f7-4885a52fe372.png" height="14px"> Cumcord Plugin URL `https://kckarnige.is-a.dev/cumcord-plugins/serverlogos`
+~~<img src="https://user-images.githubusercontent.com/32397453/141385369-857e575a-8b8e-46ac-a3f7-4885a52fe372.png" height="14px"> Cumcord Plugin URL `https://kckarnige.is-a.dev/cumcord-plugins/serverlogos`~~
 
 <img src="https://avatars.githubusercontent.com/u/80864961" height="14px"> Kernel Mod Package Install ```git clone https://github.com/kckarnige/custom-server-logos --branch kernel-mod```
