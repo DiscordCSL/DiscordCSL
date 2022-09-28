@@ -1,6 +1,6 @@
 <h4></h4>
 <h1 align="center" href="https://github.com/kckarnige/custom-server-logos">
-<img src="https://user-images.githubusercontent.com/32397453/192675948-b7b16f68-d4a4-4fa9-9ea8-7d9a48c42a58.svg" height="75%" width="75%">
+<img src="https://raw.githubusercontent.com/kckarnige/custom-server-logos/main/logo.svg" height="75%" width="75%">
 </h1>
 
 <h3 align="center">
@@ -25,7 +25,8 @@
   
   <li>Submitted logos must be a <strong>38h by 164w vector file</strong> or an <i>animated</i> GIF,</li>
   <li>Submitted logos must be hosted on Imgur, GitHub (through a repo, or GH pages), or Discord, anything else will be asked to be changed</li>
-  <li>You must submit your server ID (If you don't know how to get this [google.it](https://google.it), it's not too hard)</li>
+  <li>You must submit your server ID (If you don't know how to get this <a href="https://www.google.com/search?q=discord+how+to+get+server+id">google.it</a></li>
+  <li>If you know what you're doing and want to make my life easier, use the provided <a href="https://github.com/kckarnige/custom-server-logos/blob/main/TEMPLATE.css">template</a></li>
   
   
 </details>
