@@ -49,7 +49,7 @@ Base for CSP Bypass for MV3: <a href="https://github.com/WithoutHair/Disable-Con
 <br>
 
 <p align="center">
-If you want to add this to your Powercord theme, put this into your base CSS file:
+If you want to add this to your Replugged theme, put this into your base CSS file:
 </p>
 <p align="center">
 <code>
