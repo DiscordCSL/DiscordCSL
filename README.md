@@ -75,7 +75,7 @@ If you want to add this to your Powercord theme, put this into your base CSS fil
 
 <img src="https://user-images.githubusercontent.com/32397453/191739273-1034b523-66e7-4dac-8870-a8d9d7e6e799.png" height="14px"> Replugged Theme Install ```git clone https://github.com/kckarnige/custom-server-logos --branch powercord```
 
-<img src="https://kckarnige.github.io/res/powercord.svg" width="14px"> Powercord Theme Install ```git clone https://github.com/kckarnige/custom-server-logos --branch powercord```
+~~<img src="https://kckarnige.github.io/res/powercord.svg" width="14px"> Powercord Theme Install ```git clone https://github.com/kckarnige/custom-server-logos --branch powercord```~~
 
 [<img src="https://user-images.githubusercontent.com/32397453/122653083-5e7f1200-d110-11eb-9913-a7dcd0f522fc.png" height="14px"> Chromium Manual Extension Install](https://github.com/kckarnige/custom-server-logos/releases/tag/chromium)
 
