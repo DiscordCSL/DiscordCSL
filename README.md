@@ -10,7 +10,7 @@
 <h3 align="center"><i><a href="https://discord.gg/Cy9bJu6ARw">Support Server Link!</a></i></h3>
 
 <h4 align="center">
-<img src="https://user-images.githubusercontent.com/32397453/192693432-7517a5de-418d-4f73-9e14-3904d3ba1440.png">
+<img src="https://user-images.githubusercontent.com/32397453/192788699-5d102802-2ab7-4cac-a4a5-0e1c2f2a41de.png">
 </h4>
 
 <section id="submission-info">
