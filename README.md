@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  <i>Stick out from the crowd</i>
+  Stick out from the crowd!
 </h3>
 
 <h3 align="center"><i><a href="https://discord.gg/Cy9bJu6ARw">Support Server Link!</a></i></h3>
