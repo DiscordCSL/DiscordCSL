@@ -1,7 +1,7 @@
 /* ===== Custom Server Logos ===== */
 
 /* == Center Logos == */
-h1.name-3Uvkvr:after {
+div.name-3Uvkvr:after {
     display: flex;
     justify-content: center;
     top: 50%;
@@ -54,12 +54,12 @@ div[data-guild-id="895642817995632682"] header svg.button-2BMPJJ.open-3fGK6o {
     transform: translate3d(0,0px,0) rotate(-90deg) !important;
 }
 
-div[data-guild-id="895642817995632682"] header h1.name-3Uvkvr {
+div[data-guild-id="895642817995632682"] header div.name-3Uvkvr {
     font-size: 0px;
     transform: translate(1.5%, 3%);
 }
 
-div[data-guild-id="895642817995632682"] header h1.name-3Uvkvr:after {
+div[data-guild-id="895642817995632682"] header div.name-3Uvkvr:after {
     content: url("https://kckarnige.is-a.dev/custom-server-logos/res/main_server_uwu.svg");
 }
 	
@@ -76,12 +76,12 @@ div[data-guild-id="831170964237713479"] header svg.button-2BMPJJ.open-3fGK6o {
     transform: translate3d(0,0px,0) rotate(-90deg) !important;
 }
 
-div[data-guild-id="831170964237713479"] header h1.name-3Uvkvr {
+div[data-guild-id="831170964237713479"] header div.name-3Uvkvr {
     font-size: 0px;
     transform: translate(1.5%, 3%);
 }
 
-div[data-guild-id="831170964237713479"] header h1.name-3Uvkvr:after {
+div[data-guild-id="831170964237713479"] header div.name-3Uvkvr:after {
     content: url("https://kckarnige.is-a.dev/custom-server-logos/res/lighty_server-wordmark.svg");
 }
 	
@@ -98,12 +98,12 @@ div[data-guild-id="86004744966914048"] header svg.button-2BMPJJ.open-3fGK6o {
     transform: translate3d(0,0px,0) rotate(-90deg) !important;
 }
 
-div[data-guild-id="86004744966914048"] header h1.name-3Uvkvr {
+div[data-guild-id="86004744966914048"] header div.name-3Uvkvr {
     font-size: 0px;
     transform: translate(1.5%, 3%);
 }
 
-div[data-guild-id="86004744966914048"] header h1.name-3Uvkvr:after {
+div[data-guild-id="86004744966914048"] header div.name-3Uvkvr:after {
     content: url("https://kckarnige.is-a.dev/custom-server-logos/res/betterdiscord_server-wordmark.svg");
 }
 	
@@ -120,12 +120,12 @@ div[data-guild-id="280806472928198656"] header svg.button-2BMPJJ.open-3fGK6o {
     transform: translate3d(0,0px,0) rotate(-90deg) !important;
 }
 
-div[data-guild-id="280806472928198656"] header h1.name-3Uvkvr {
+div[data-guild-id="280806472928198656"] header div.name-3Uvkvr {
     font-size: 0px;
     transform: translate(1.5%, 3%);
 }
 
-div[data-guild-id="280806472928198656"] header h1.name-3Uvkvr:after {
+div[data-guild-id="280806472928198656"] header div.name-3Uvkvr:after {
     content: url("https://kckarnige.is-a.dev/custom-server-logos/res/betterdiscord2_server-wordmark.svg");
 }
 	
@@ -142,12 +142,12 @@ div[data-guild-id="538759280057122817"] header svg.button-2BMPJJ.open-3fGK6o {
     transform: translate3d(0,0px,0) rotate(-90deg) !important;
 }
 
-div[data-guild-id="538759280057122817"] header h1.name-3Uvkvr {
+div[data-guild-id="538759280057122817"] header div.name-3Uvkvr {
     font-size: 0px;
     transform: translate(1.5%, 3%);
 }
 
-div[data-guild-id="538759280057122817"] header h1.name-3Uvkvr:after {
+div[data-guild-id="538759280057122817"] header div.name-3Uvkvr:after {
     content: url("https://kckarnige.is-a.dev/custom-server-logos/res/powercord_server-wordmark.svg");
 }
 	
@@ -164,12 +164,12 @@ div[data-guild-id="756146058320674998"] header svg.button-2BMPJJ.open-3fGK6o {
     transform: translate3d(0,0px,0) rotate(-90deg) !important;
 }
 
-div[data-guild-id="756146058320674998"] header h1.name-3Uvkvr {
+div[data-guild-id="756146058320674998"] header div.name-3Uvkvr {
     font-size: 0px;
     transform: translate(1.5%, 3%);
 }
 
-div[data-guild-id="756146058320674998"] header h1.name-3Uvkvr:after {
+div[data-guild-id="756146058320674998"] header div.name-3Uvkvr:after {
     content: url("https://kckarnige.is-a.dev/custom-server-logos/res/goosenest_server-wordmark.svg");
 }
 	
@@ -178,7 +178,7 @@ div[data-guild-id="756146058320674998"] header div.guildIconContainer-3QvE6w {
 }
 
 /* GooseNest but on GooseMod */
-.goosemod div[data-guild-id="756146058320674998"] header h1.name-3Uvkvr:after {
+.goosemod div[data-guild-id="756146058320674998"] header div.name-3Uvkvr:after {
     content: url("https://kckarnige.is-a.dev/custom-server-logos/res/goosenest_server-wordmark-nogoose.svg") !important;
 }
 
@@ -191,12 +191,12 @@ div[data-guild-id="820732039253852171"] header svg.button-2BMPJJ.open-3fGK6o {
     transform: translate3d(0,0px,0) rotate(-90deg) !important;
 }
 
-div[data-guild-id="820732039253852171"] header h1.name-3Uvkvr {
+div[data-guild-id="820732039253852171"] header div.name-3Uvkvr {
     font-size: 0px;
     transform: translate(1.5%, 3%);
 }
 
-div[data-guild-id="820732039253852171"] header h1.name-3Uvkvr:after {
+div[data-guild-id="820732039253852171"] header div.name-3Uvkvr:after {
     content: url("https://kckarnige.is-a.dev/custom-server-logos/res/armcord_server-wordmark.svg");
 }
 	
@@ -217,12 +217,12 @@ div[data-guild-id="779760211522224138"] header svg.button-2BMPJJ.open-3fGK6o {
     transform: translate3d(0,0px,0) rotate(-90deg) !important;
 }
 
-div[data-guild-id="779760211522224138"] header h1.name-3Uvkvr {
+div[data-guild-id="779760211522224138"] header div.name-3Uvkvr {
     font-size: 0px;
     transform: translate(1.5%, 3%);
 }
 
-div[data-guild-id="779760211522224138"] header h1.name-3Uvkvr:after {
+div[data-guild-id="779760211522224138"] header div.name-3Uvkvr:after {
     content: url("https://kckarnige.is-a.dev/custom-server-logos/res/arc_server-watermark.svg");
 }
 	
@@ -239,12 +239,12 @@ div[data-guild-id="868523001921028206"] header svg.button-2BMPJJ.open-3fGK6o {
     transform: translate3d(0,0px,0) rotate(-90deg) !important;
 }
 
-div[data-guild-id="868523001921028206"] header h1.name-3Uvkvr {
+div[data-guild-id="868523001921028206"] header div.name-3Uvkvr {
     font-size: 0px;
     transform: translate(1.5%, 3%);
 }
 
-div[data-guild-id="868523001921028206"] header h1.name-3Uvkvr:after {
+div[data-guild-id="868523001921028206"] header div.name-3Uvkvr:after {
     content: url("https://kckarnige.is-a.dev/custom-server-logos/res/hun&bun_priv_server-wordmark.svg");
 }
 	
@@ -261,12 +261,12 @@ div[data-guild-id="489529070913060867"] header svg.button-2BMPJJ.open-3fGK6o {
     transform: translate3d(0,0px,0) rotate(-90deg) !important;
 }
 
-div[data-guild-id="489529070913060867"] header h1.name-3Uvkvr {
+div[data-guild-id="489529070913060867"] header div.name-3Uvkvr {
     font-size: 0px;
     transform: translate(1.5%, 55%);
 }
 
-div[data-guild-id="489529070913060867"] header h1.name-3Uvkvr:after {
+div[data-guild-id="489529070913060867"] header div.name-3Uvkvr:after {
     content: url("https://kckarnige.is-a.dev/custom-server-logos/res/hypixel_chat_server-wordmark.svg");
 }
 
@@ -283,12 +283,12 @@ div[data-guild-id="877624488341168138"] header svg.button-2BMPJJ.open-3fGK6o {
     transform: translate3d(0,0px,0) rotate(-90deg) !important;
 }
 
-div[data-guild-id="877624488341168138"] header h1.name-3Uvkvr {
+div[data-guild-id="877624488341168138"] header div.name-3Uvkvr {
     font-size: 0px;
     transform: translate(1.5%, 3%);
 }
 
-div[data-guild-id="877624488341168138"] header h1.name-3Uvkvr:after {
+div[data-guild-id="877624488341168138"] header div.name-3Uvkvr:after {
     content: url("https://kckarnige.is-a.dev/custom-server-logos/res/stare_emojis_server-wordmark.svg");
 }
 	
@@ -305,12 +305,12 @@ div[data-guild-id="923317188058812417"] header svg.button-2BMPJJ.open-3fGK6o {
     transform: translate3d(0,0px,0) rotate(-90deg) !important;
 }
 
-div[data-guild-id="923317188058812417"] header h1.name-3Uvkvr {
+div[data-guild-id="923317188058812417"] header div.name-3Uvkvr {
     font-size: 0px;
     transform: translate(1.5%, 3%);
 }
 
-div[data-guild-id="923317188058812417"] header h1.name-3Uvkvr:after {
+div[data-guild-id="923317188058812417"] header div.name-3Uvkvr:after {
     content: url("https://kckarnige.is-a.dev/custom-server-logos/res/utc_server-wordmark.svg");
 }
 	
@@ -327,12 +327,12 @@ div[data-guild-id="810920173464846407"] header svg.button-2BMPJJ.open-3fGK6o {
     transform: translate3d(0,0px,0) rotate(-90deg) !important;
 }
 
-div[data-guild-id="810920173464846407"] header h1.name-3Uvkvr {
+div[data-guild-id="810920173464846407"] header div.name-3Uvkvr {
     font-size: 0px;
     transform: translate(1.5%, 3%);
 }
 
-div[data-guild-id="810920173464846407"] header h1.name-3Uvkvr:after {
+div[data-guild-id="810920173464846407"] header div.name-3Uvkvr:after {
     content: url("https://kckarnige.is-a.dev/custom-server-logos/res/projectps_server-wordmark.svg");
 }
 	
@@ -349,12 +349,12 @@ div[data-guild-id="824921608560181258"] header svg.button-2BMPJJ.open-3fGK6o {
     transform: translate3d(0,0px,0) rotate(-90deg) !important;
 }
 
-div[data-guild-id="824921608560181258"] header h1.name-3Uvkvr {
+div[data-guild-id="824921608560181258"] header div.name-3Uvkvr {
     font-size: 0px;
     transform: translate(1.5%, 3%);
 }
 
-div[data-guild-id="824921608560181258"] header h1.name-3Uvkvr:after {
+div[data-guild-id="824921608560181258"] header div.name-3Uvkvr:after {
     content: url("https://kckarnige.is-a.dev/custom-server-logos/res/cumcord_server-wordmark.svg");
 }
 	
@@ -370,12 +370,12 @@ div[data-guild-id="1009892699660365825"] header svg.button-2BMPJJ.open-3fGK6o {
     transform: translate3d(0,0px,0) rotate(-90deg) !important;
 }
 
-div[data-guild-id="1009892699660365825"] header h1.name-3Uvkvr {
+div[data-guild-id="1009892699660365825"] header div.name-3Uvkvr {
     font-size: 0px;
     transform: translate(1.5%, 3%);
 }
 
-div[data-guild-id="1009892699660365825"] header h1.name-3Uvkvr:after {
+div[data-guild-id="1009892699660365825"] header div.name-3Uvkvr:after {
     content: url("https://kckarnige.is-a.dev/custom-server-logos/res/chsgayclob_server-wordmark.svg");
 }
 	
