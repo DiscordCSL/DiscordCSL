@@ -7,12 +7,12 @@ div[data-guild-id="server_id"] header svg.button-2BMPJJ.open-3fGK6o {
     transform: translate3d(0,0px,0) rotate(-90deg) !important;
 }
 
-div[data-guild-id="server_id"] header h1.name-3Uvkvr {
+div[data-guild-id="server_id"] header div.name-3Uvkvr {
     font-size: 0px;
     transform: translate(1.5%, 3%);
 }
 
-div[data-guild-id="server_id"] header h1.name-3Uvkvr:after {
+div[data-guild-id="server_id"] header div.name-3Uvkvr:after {
     content: url("https://example.com/vector_logo_url/filename.svg");
 }
 	

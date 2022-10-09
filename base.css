@@ -32,13 +32,14 @@ div[data-guild-id] header {
 /* == Shrink server banners to header instead of disappearing == */
 [class*="animatedContainer-"] {
     opacity: 1 !important;
-    transition: opacity .5s;
+    transition: opacity .5s, blur .5s;
 }
 [class*="animatedContainer-"] > [class*="bannerImage-"] {
     transition: margin .5s;
 }
 :not([class*="bannerVisible-"]) > [class*="animatedContainer-"] {
     opacity: .35 !important;
+    filter: blur(5px);
     height: 138px;
 }
 :not([class*="bannerVisible-"]) > [class*="animatedContainer-"] > [class*="bannerImage-"] {
