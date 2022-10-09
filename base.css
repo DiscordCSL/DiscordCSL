@@ -39,7 +39,7 @@ div[data-guild-id] header {
 }
 :not([class*="bannerVisible-"]) > [class*="animatedContainer-"] {
     opacity: .35 !important;
-    filter: blur(5px);
+    filter: blur(2px);
     height: 138px;
 }
 :not([class*="bannerVisible-"]) > [class*="animatedContainer-"] > [class*="bannerImage-"] {
@@ -341,27 +341,6 @@ div[data-guild-id="810920173464846407"] header div.guildIconContainer-3QvE6w {
     transform: translate(-6%, 6%)
 }
 
-/* Cumcord */
-div[data-guild-id="824921608560181258"] header svg.button-2BMPJJ {
-    transform: translate3d(0,3px,0) rotate(0deg) !important;
-}
-
-div[data-guild-id="824921608560181258"] header svg.button-2BMPJJ.open-3fGK6o {
-    transform: translate3d(0,0px,0) rotate(-90deg) !important;
-}
-
-div[data-guild-id="824921608560181258"] header div.name-3Uvkvr {
-    font-size: 0px;
-    transform: translate(1.5%, 3%);
-}
-
-div[data-guild-id="824921608560181258"] header div.name-3Uvkvr:after {
-    content: url("https://kckarnige.is-a.dev/custom-server-logos/res/cumcord_server-wordmark.svg");
-}
-	
-div[data-guild-id="824921608560181258"] header div.guildIconContainer-3QvE6w {
-    transform: translate(-6%, 6%)
-}
 /* Colonial High Gaming Club */
 div[data-guild-id="1009892699660365825"] header svg.button-2BMPJJ {
     transform: translate3d(0,3px,0) rotate(0deg) !important;
@@ -381,6 +360,28 @@ div[data-guild-id="1009892699660365825"] header div.name-3Uvkvr:after {
 }
 	
 div[data-guild-id="1009892699660365825"] header div.guildIconContainer-3QvE6w {
+    transform: translate(-6%, 6%)
+}
+
+/* BONELAB (Unofficial Server) */
+div[data-guild-id="563139253542846474"] header svg.button-2BMPJJ {
+    transform: translate3d(0,3px,0) rotate(0deg) !important;
+}
+
+div[data-guild-id="563139253542846474"] header svg.button-2BMPJJ.open-3fGK6o {
+    transform: translate3d(0,0px,0) rotate(-90deg) !important;
+}
+
+div[data-guild-id="563139253542846474"] header div.name-3Uvkvr {
+    font-size: 0px;
+    transform: translate(1.5%, 3%);
+}
+
+div[data-guild-id="563139253542846474"] header div.name-3Uvkvr:after {
+    content: url("https://kckarnige.is-a.dev/custom-server-logos/res/bonelab_server-wordmark.svg");
+}
+	
+div[data-guild-id="563139253542846474"] header div.guildIconContainer-3QvE6w {
     transform: translate(-6%, 6%)
 }
 
