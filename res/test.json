@@ -2,13 +2,13 @@
     "servers": [
         {
             "id": "1009892699660365825",
-            "logoURL": "Logo 1",
+            "logoURL": "https://kckarnige.is-a.dev/custom-server-logos/res/chsgayclob_server-wordmark.svg",
             "serverName": "CH Gaming Club Server"
         },
         {
-            "id": "918643357998260246",
-            "logoURL": "Logo 2",
-            "serverName": "Lava Gang"
+            "id": "563139253542846474",
+            "logoURL": "https://kckarnige.is-a.dev/custom-server-logos/res/bonelab_server-wordmark.svg",
+            "serverName": "BONELAB"
         }
     ]
 }
