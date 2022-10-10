@@ -1,0 +1,14 @@
+{
+    "servers": [
+        {
+            "id": "1009892699660365825",
+            "logoURL": "Logo 1",
+            "serverName": "CH Gaming Club Server"
+        },
+        {
+            "id": "918643357998260246",
+            "logoURL": "Logo 2",
+            "serverName": "Lava Gang"
+        }
+    ]
+}
