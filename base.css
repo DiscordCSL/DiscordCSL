@@ -384,29 +384,3 @@ div[data-guild-id="563139253542846474"] header div.name-3Uvkvr:after {
 div[data-guild-id="563139253542846474"] header div.guildIconContainer-3QvE6w {
     transform: translate(-6%, 6%)
 }
-
-
-/* == jsyk it's installed uwu == */
-a.embedTitle-2n1pEb[href*="https://kckarnige.is-a.dev/custom-server-logos"]:after, a.embedTitle-2n1pEb[href*="https://github.com/kckarnige/custom-server-logos"]:after, a.embedTitle-2n1pEb[href*="https://chrome.google.com/webstore/detail/discord-server-logos/lnebdlajjbkilmadjeicejnblepglbci"]:after {
-    content: "Installed";
-    background: var(--brand-experiment);
-    border-radius: 4px;
-    margin-left: 5px;
-    padding-right: 3px;
-    padding-left: 3px;
-    color: #fff;
-    font-size: 10px;
-    line-height: 15px;
-    text-transform: uppercase;
-    font-weight: 500;
-    white-space: nowrap;
-    position: relative;
-    -webkit-transition: background-color .17s ease, color .17s ease;
-    transition: background-color .17s ease, color .17s ease;
-}
-
-a.embedTitle-2n1pEb[href*="https://kckarnige.is-a.dev/custom-server-logos"]:hover:after, a.embedTitle-2n1pEb[href*="https://github.com/kckarnige/custom-server-logos"]:hover:after, a.embedTitle-2n1pEb[href*="https://chrome.google.com/webstore/detail/discord-server-logos/lnebdlajjbkilmadjeicejnblepglbci"]:hover:after {
-    background: var(--brand-experiment-560);
-    -webkit-transition: background-color .17s ease, color .17s ease;
-    transition: background-color .17s ease, color .17s ease;
-}
