@@ -59,6 +59,11 @@
             "id": "563139253542846474",
             "logoURL": "https://kckarnige.is-a.dev/custom-server-logos/res/bonelab_server.svg",
             "serverName": "BONELAB"
+        },
+        {
+            "id": "689933814864150552",
+            "logoURL": "https://kckarnige.is-a.dev/custom-server-logos/res/vizality_server.svg",
+            "serverName": "Vizality"
         }
     ]
 }
