@@ -1,6 +1,56 @@
 {
     "servers": [
         {
+            "id": "895642817995632682",
+            "logoURL": "https://kckarnige.is-a.dev/custom-server-logos/res/main_server_uwu.svg",
+            "serverName": "Discord Custom Server Logos"
+        },
+        {
+            "id": "831170964237713479",
+            "logoURL": "https://kckarnige.is-a.dev/custom-server-logos/res/lighty_server-wordmark.svg",
+            "serverName": "Lighty Emojis"
+        },
+        {
+            "id": "86004744966914048",
+            "logoURL": "https://kckarnige.is-a.dev/custom-server-logos/res/betterdiscord_server-wordmark.svg",
+            "serverName": "BetterDiscord"
+        },
+        {
+            "id": "280806472928198656",
+            "logoURL": "https://kckarnige.is-a.dev/custom-server-logos/res/betterdiscord2_server-wordmark.svg",
+            "serverName": "BetterDiscord 2"
+        },
+        {
+            "id": "756146058320674998",
+            "logoURL": "https://kckarnige.is-a.dev/custom-server-logos/res/goosenest_server-wordmark.svg",
+            "serverName": "GooseNest"
+        },
+        {
+            "id": "820732039253852171",
+            "logoURL": "https://kckarnige.is-a.dev/custom-server-logos/res/armcord_server-wordmark.svg",
+            "serverName": "ArmCord"
+        },
+        {
+            "id": "779760211522224138",
+            "logoURL": "https://kckarnige.is-a.dev/custom-server-logos/res/arc_server-wordmark.svg",
+            "serverName": "Nebula's Palace"
+        },
+        {
+            "id": "868523001921028206",
+            "logoURL": "https://kckarnige.is-a.dev/custom-server-logos/res/hun&bun_priv_server-wordmark.svg",
+            "serverName": "[PRIVATE] Hun & Bun"
+        },
+        {
+            "id": "877624488341168138",
+            "logoURL": "https://kckarnige.is-a.dev/custom-server-logos/res/stare_emojis_server-wordmark.svg",
+            "serverName": "Stare Emojis"
+        },
+        {
+            "id": "810920173464846407",
+            "logoURL": "https://kckarnige.is-a.dev/custom-server-logos/res/projectps_server-wordmark.svg",
+            "serverName": "Project PS"
+        },
+        {
             "id": "1009892699660365825",
             "logoURL": "https://kckarnige.is-a.dev/custom-server-logos/res/chsgayclob_server-wordmark.svg",
             "serverName": "CH Gaming Club Server"
