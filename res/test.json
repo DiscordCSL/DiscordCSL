@@ -69,6 +69,11 @@
             "id": "689933814864150552",
             "logoURL": "https://kckarnige.is-a.dev/custom-server-logos/res/vizality_server.svg",
             "serverName": "Vizality"
+        },
+        {
+            "id": "891039687785996328",
+            "logoURL": "https://kckarnige.is-a.dev/custom-server-logos/res/kernel_server.svg",
+            "serverName": "Kernel Mod"
         }
     ]
 }
