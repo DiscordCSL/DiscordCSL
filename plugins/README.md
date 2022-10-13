@@ -7,3 +7,5 @@
 [<img src="https://user-images.githubusercontent.com/32397453/122653316-cda93600-d111-11eb-90d3-bf40dc7b4c86.png" height="14px"> ArmCord Plugin](https://github.com/DiscordCSL/DiscordCSL/tree/main/plugins/chromium-mv3)
 
 [<img src="https://user-images.githubusercontent.com/32397453/122653083-5e7f1200-d110-11eb-9913-a7dcd0f522fc.png" height="14px"> Chromium DevTools Extension](https://github.com/DiscordCSL/DiscordCSL/tree/main/plugins/chromium-mv3)
+
+[<img src="https://user-images.githubusercontent.com/32397453/195731137-dc2e41ca-df30-4513-a8c4-0892cccff552.png" height="14px"> Chrome Web Store](https://chrome.google.com/webstore/detail/discord-custom-server-log/lnebdlajjbkilmadjeicejnblepglbc)
