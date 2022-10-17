@@ -18,12 +18,11 @@
 <br>
 
 
-<details>
-  <summary align="center"><strong>REQUEST SUBMISSIONS NOW OPEN [Click for more info]</strong></summary>
+  <h3 align="center"><strong>Submissions</strong></h3>
    <br>
 
 
-  [Discord Server > #submissions](https://discord.gg/Cy9bJu6ARw)
+  <p align="center"><a href="https://discord.gg/Cy9bJu6ARw">Discord Server > #submissions</a></p>
   <ul>
   <li>Submitted logos must be a 38h by 164w vector file or an <u>animated</u> GIF</li>
   <li>Submitted logos must be hosted on:
@@ -35,8 +34,6 @@
   </li>
   <li>You <u><b>MUST</b></u> submit your server ID, if you don't know how to get it, <a href="https://www.google.com/search?q=discord+how+to+get+server+id">google.it</a></li>
   </ul>
-    
-</details>
 <br>
 <h1> </h1>
 <section id="download">
