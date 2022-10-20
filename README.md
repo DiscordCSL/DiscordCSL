@@ -28,8 +28,8 @@
   <li>Submitted logos must be hosted on:
   <ul>
   <li>GitHub</li>
-  <li>A personal Website (Will be moved to the database if untrusted)</li>
-  <li>Submitted as a Discord Attachment via the server (Will be moved to the database)</li>
+  <li>A personal website (Will be moved to the database resources if untrusted.)</li>
+  <li>Discord via an attachment (Must be submitted on the server. Will be moved to the database resources.)</li>
   </ul>
   </li>
   <li>You <u><b>MUST</b></u> submit your server ID, if you don't know how to get it, <a href="https://www.google.com/search?q=discord+how+to+get+server+id">google.it</a></li>
