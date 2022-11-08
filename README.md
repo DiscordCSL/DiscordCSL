@@ -24,7 +24,7 @@
 
   <p align="center"><a href="https://discord.gg/Cy9bJu6ARw">Discord Server > #submissions</a></p>
   <ul>
-  <li>Submitted logos must be a 38h by 164w vector file or an <u>animated</u> GIF</li>
+  <li>Submitted logos must be a 164px by 38px SVG file</li>
   <li>Submitted logos must be hosted on:
   <ul>
   <li>GitHub</li>
