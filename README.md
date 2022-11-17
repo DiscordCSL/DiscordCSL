@@ -9,6 +9,7 @@
 
 <p align="center"><i><a href="https://discord.gg/Cy9bJu6ARw">Support Server Link! :D</a></i></p>
 
+<h1> </h1>
 <section id="download">
 <br>
 
@@ -21,8 +22,6 @@
 </a>
 </p>
 
-<h1> </h1>
-
 ### Plugin Downloads
 
 [<img src="https://camo.githubusercontent.com/c1387d0304af5c7c863887de41467a4e6c4c688ea2d7b3c9c18716eb05986815/68747470733a2f2f6b636b61726e6967652e6769746875622e696f2f7265732f62645f69636f6e2e737667" height="14px"> BetterDiscord Plugin](https://github.com/DiscordCSL/DiscordCSL/tree/main/plugins/betterdiscord)
@@ -33,12 +32,11 @@
 
 [<img src="https://user-images.githubusercontent.com/32397453/122653083-5e7f1200-d110-11eb-9913-a7dcd0f522fc.png" height="14px"> Chromium DevTools Extension](https://github.com/DiscordCSL/DiscordCSL/tree/main/plugins/chromium-mv3)
 
+
+<h1></h1>
+
 <section id="submission-info">
-<br>
-<br>
-
-
-  <h2 align="center"><strong>Submission Info</strong></h2>
+  <h3 align="center">Submission Info</h3>
    <br>
 
 
