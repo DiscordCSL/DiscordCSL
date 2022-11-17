@@ -18,7 +18,7 @@
 <img src="https://storage.googleapis.com/chrome-gcs-uploader.appspot.com/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/HRs9MPufa1J1h5glNhut.png" height="58px">
 </a>
 <a href="https://discordcsl.github.io/shelter-plugin" title="Available for Shelter!">
-<img src="https://user-images.githubusercontent.com/32397453/202431552-0c96c3fa-ab78-4884-8a0c-8097afaa60de.png" height="58px">
+<img src="https://user-images.githubusercontent.com/32397453/202480071-d5457731-9eb2-4ca7-9718-f3c1d2fe2757.png" height="58px">
 </a>
 </p>
 
