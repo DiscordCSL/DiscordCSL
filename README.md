@@ -1,6 +1,8 @@
 <h4></h4>
-<h3 align="center" href="https://github.com/DiscordCSL/DiscordCSL">
-<img src="https://raw.githubusercontent.com/DiscordCSL/DiscordCSL/main/logo.svg" height="75%" width="75%">
+<h3 align="center">
+  <a href="https://github.com/DiscordCSL/DiscordCSL">
+    <img src="https://raw.githubusercontent.com/DiscordCSL/DiscordCSL/main/logo.svg" height="75%" width="75%">
+  </a>
 </h3>
 
 <h3 align="center">
