@@ -99,17 +99,18 @@ var injectLogo = () => {
 }
 
 // Plugin Stuff
+let inject;
 module.exports = meta => ({
     start() {
         addStyle()
         setTimeout(function () {
             getDB()
         }, 3000)
-        setInterval(injectLogo, 0)
+        inject = setInterval(injectLogo, 0)
     },
     stop() {
         removeStyle()
-        clearInterval(injectLogo)
+        clearInterval(inject)
         log("See ya next time!")
     }
 });
