@@ -2,6 +2,10 @@
  * @name Discord Custom Server Logos
  * @author KayoticCarnige
  * @description A neat little Discord plugin that adds custom logos to your favorite servers.
+ * @invite Cy9bJu6ARw
+ * @authorId 634168893644210186
+ * @authorLink https://github.com/kckarnige
+ * @website https://github.com/DiscordCSL/DiscordCSL
  * @version 5.0.0
  */
 const serverHeader_class = "container-1NXEtd"
