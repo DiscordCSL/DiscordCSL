@@ -1,40 +1,26 @@
-const serverHeader_class = "container-1NXEtd";
-const serverName_class = "name-3Uvkvr";
-const manifestVersion = window.kernelDiscordCSL.index().version;
+const serverHeader_class = "container-1NXEtd"
+const serverName_class = "name-3Uvkvr"
+const loadingSplash_class = "container-2RRFHK"
+const manifestVersion = window.kernelDiscordCSL.index().version
 
-// == Yoinked from "https://www.delftstack.com/howto/javascript/get-json-from-url-in-javascript/" ==
-var get = function (type, url, callback) {
-    var xmlhttprequest = new XMLHttpRequest();
-    xmlhttprequest.open('GET', url, true);
-    xmlhttprequest.responseType = type;
-    xmlhttprequest.onload = function () {
-        var status = xmlhttprequest.status;
-        if (status == 200) {
-            callback(null, xmlhttprequest.response);
-        } else {
-            callback(status, xmlhttprequest.response);
-        }
-    };
-    xmlhttprequest.send();
-};
-// == ------------------------------------------------------------------------------------------- ==
-
-function log(type, input) {
-    let color;
-    if (type == "log") {
-        color = "#7289da";
-    } else if (type == "info") {
-        color = "#43b581";
+// CDSL Console Log
+function log(input, type) {
+    let color
+    if (type == "info") {
+        color = "#43b581"
     } else if (type == "warn") {
-        color = "#faa61a";
+        color = "#faa61a"
     } else if (type == "error") {
-        color = "#f04747";
+        color = "#f04747"
+    } else {
+        color = "#7289da"
     }
-    console.log(`%cDiscord CSL v${manifestVersion}%c ${input}`, `color: ${color}; border-right: 2px solid ${color}; padding-right: 5px; font-weight: bold`, "font-style: italic;", "");
+    console.log(`%cDiscord CSL v${manifestVersion}%c ${input}`, `color: ${color}; padding: 3px; border-radius: 4px; background: ${color}22; border-right: 2px solid ${color}; padding-right: 5px; padding-left: 6px; font-weight: bold`, "font-style: italic;", "");
 }
 
+// Server Logo Styling
 function addStyle() {
-    const style = document.createElement("style");
+    const style = document.createElement("style")
     style.textContent = `
 [csl-server] div.guildIconContainer-3QvE6w {
     transform: translate(-6%, 6%)
@@ -60,52 +46,51 @@ function addStyle() {
 }
 [csl-server] :not([class*="bannerVisible-"]) > [class*="animatedContainer-"] > [class*="bannerImage-"] {
     margin-top: -12px;
-}`;
-    document.head.append(style);
+}`
+    document.head.append(style)
 }
 
+// Fetching the database
+let data
+var getDB = async () => {
+    const response = await fetch('https://raw.githubusercontent.com/DiscordCSL/database/main/db.json')
+    const fetchData = await response.json()
+    data = fetchData
+    log("Thanks for installing Custom Server Logos!")
+    if (fetchData.latestVersion > manifestVersion) {
+        log(`You're running an older version of this plugin. Update to v${fetchData.latestVersion}`, "error")
+    } else {
+        log("You're running the latest and greatest!", "info")
+    }
+}
+
+// Injecting the logo
 var injectLogo = () => {
-    get("json", 'https://raw.githubusercontent.com/DiscordCSL/database/main/db.json', function (err, data) {
-        if (err !== null) {
-            log("error", `Failed to fetch database json!`);
-        } else {
-            var all = data.servers.length,
-                serverData;
-
-            while (all--) {
-
-                if (window.location.pathname.split('/')[2] == data.servers[all].id) {
+    if ((!document.getElementsByClassName(loadingSplash_class)[0]) && (window.location.pathname.split('/')[1] == "channels") && !(window.location.pathname.split('/')[2] == "@me")) {
+        if (!(document.getElementsByClassName(serverHeader_class)[0].hasAttribute('csl-server'))) {
+            for (var i = 0; i < data.servers.length; i++) {
+                if (data.servers[i].id == window.location.pathname.split('/')[2]) {
                     if (!(document.getElementsByClassName(serverHeader_class)[0].hasAttribute('csl-server'))) {
-                        document.getElementsByClassName(serverHeader_class)[0].setAttribute('csl-server', '');
-                        serverData = data.servers[all];
-                        get("text", serverData.logoURL, function (err, data) {
-                            if (err !== null) {
-                                log("error", `Failed to fetch server logo vector data! | ${serverData.id}`);
-                            } else {
-                                document.getElementsByClassName(serverName_class)[0].innerHTML = data;
-                            }
-                        });
-                    } else if (Error && !(document.getElementsByClassName(serverHeader_class)[0].hasAttribute('csl-server'))) {
-                        log("error", "No server header found. Try restarting the app and reinstalling the plugin, before reporting any issues.")
+                        document.getElementsByClassName(serverHeader_class)[0].setAttribute('csl-server', '')
                     }
+                    fetch(data.servers[i].logoURL)
+                        .then(response => response.text())
+                        .then((response) => {
+                            document.getElementsByClassName(serverName_class)[0].innerHTML = response
+                        })
                 }
             }
+        } else if (Error && !(document.getElementsByClassName(serverHeader_class)[0].hasAttribute('csl-server'))) {
+            log("No server header found. Try restarting the app and reinstalling the plugin, before reporting any issues.", "error")
         }
-    })
-};
+    }
+}
+
+// Startup
 window.addEventListener("load", function () {
-    addStyle();
-    setInterval(injectLogo, 0);
-    log("log", "Thanks for installing Custom Server Logos!")
-    get("json", 'https://raw.githubusercontent.com/DiscordCSL/database/main/db.json', function (err, data) {
-        if (err !== null) {
-            log("error", `Failed to fetch database json!`);
-        } else {
-            if (data.latestVersion > manifestVersion) {
-                log("error", `You're running an older version of this plugin, please update to the latest version, ${data.latestVersion}.`)
-            } else {
-                log("info", "You're running the latest and greatest.")
-            }
-        }
-    })
-});
+    addStyle()
+    setTimeout(function () {
+        getDB()
+    }, 3000)
+    setInterval(injectLogo, 0)
+})
