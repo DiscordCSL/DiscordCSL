@@ -3,7 +3,7 @@
  * @author KayoticCarnige
  * @description A neat little Discord plugin that adds custom logos to your favorite servers.
  * @version 5.0.0
- * @invite https://discord.gg/Cy9bJu6ARw
+ * @invite Cy9bJu6ARw
  * @authorId 634168893644210186
  * @authorLink https://github.com/kckarnige
  * @website https://github.com/DiscordCSL/DiscordCSL
