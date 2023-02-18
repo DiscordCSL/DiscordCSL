@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-<a href="https://chrome.google.com/webstore/detail/discord-custom-server-log/lnebdlajjbkilmadjeicejnblepglbc" title="Available in the Chrome Web Store!">
+<a href="https://chrome.google.com/webstore/detail/discord-custom-server-log/lnebdlajjbkilmadjeicejnblepglbci" title="Available in the Chrome Web Store!">
 <img src="https://storage.googleapis.com/chrome-gcs-uploader.appspot.com/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/HRs9MPufa1J1h5glNhut.png" height="58px">
 </a>
 <a href="https://discordcsl.github.io/shelter-plugin" title="Available for Shelter!">
