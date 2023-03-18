@@ -34,12 +34,7 @@
 
 
 <h1></h1>
-
 <section id="submission-info">
-  <h3 align="center">Submission Info</h3>
-   <br>
-
-
   <h3 align="center"><a href="https://forms.gle/W6xGZqTQgG2eUftT7">Logo Submissions Form</a></h3>
   <ul>
   <li>Submitted logos must be a 164px by 38px SVG file</li>
