@@ -6,10 +6,8 @@
 </h3>
 
 <h3 align="center">
-  Stick out from the crowd!
+  <i>Stick out from the crowd!</i>
 </h3>
-
-<p align="center"><i><a href="https://discord.gg/Cy9bJu6ARw">Support Server Link! :D</a></i></p>
 
 <h1> </h1>
 <section id="download">
@@ -42,16 +40,15 @@
    <br>
 
 
-  <p align="center"><a href="https://discord.gg/Cy9bJu6ARw">Discord Server > #submissions</a></p>
+  <h3 align="center"><a href="https://forms.gle/W6xGZqTQgG2eUftT7">Logo Submissions Form</a></h3>
   <ul>
   <li>Submitted logos must be a 164px by 38px SVG file</li>
   <li>Submitted logos must be hosted on:
   <ul>
   <li>GitHub</li>
-  <li>A personal website (Will be moved to the database resources if untrusted.)</li>
-  <li>Discord via an attachment (Must be submitted on the server. Will be moved to the database resources.)</li>
+  <li>A personal website (Could potentially be moved to databased)</li>
   </ul>
   </li>
-  <li>You <u><b>MUST</b></u> submit your server ID, if you don't know how to get it, <a href="https://www.google.com/search?q=discord+how+to+get+my+server+id">google.it</a></li>
+  <li>You <u><b>MUST</b></u> submit your server ID, if you don't know how to get it, <a href="https://www.google.com/search?q=discord+how+to+get+my+server+id">Google it</a></li>
   </ul>
 <br>
