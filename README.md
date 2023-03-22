@@ -36,6 +36,7 @@
 <h1></h1>
 <section id="submission-info">
   <h3 align="center"><a href="https://forms.gle/W6xGZqTQgG2eUftT7">Logo Submissions Form</a></h3>
+  <h3 align="center"><a href="https://docs.google.com/spreadsheets/d/1Hr635Q1-F4kjFWRhX0aTwADCYX9En7QLmHJinhPPqto/edit?usp=sharing">Logo Submissions Spreadsheet</a></h3>
   <ul>
   <li>Submitted logos must be a 164px by 38px SVG file</li>
   <li>Submitted logos must be hosted on:
