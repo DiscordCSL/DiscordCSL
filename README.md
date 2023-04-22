@@ -32,7 +32,7 @@
 
 [<img src="https://user-images.githubusercontent.com/32397453/122653083-5e7f1200-d110-11eb-9913-a7dcd0f522fc.png" height="14px"> Chromium DevTools Extension](https://github.com/DiscordCSL/DiscordCSL/tree/main/plugins/chromium-mv3)
 
-[<img src="https://user-images.githubusercontent.com/32397453/233756981-11aca388-b643-400a-953b-87930236b67f.png" height="14px"> Replugged Plugin (ASAR File)](https://github.com/DiscordCSL/replugged-plugin/releases/latest/download/dev.kckarnige.DiscordCSL.asar) | [Repo](https://github.com/DiscordCSL/replugged-plugin)
+[<img src="https://user-images.githubusercontent.com/32397453/233756981-11aca388-b643-400a-953b-87930236b67f.png" height="14px"> Replugged Plugin](https://replugged.dev/install?identifier=DiscordCSL/replugged-plugin&source=github) | [Repo](https://github.com/DiscordCSL/replugged-plugin)
 
 
 <h1></h1>
